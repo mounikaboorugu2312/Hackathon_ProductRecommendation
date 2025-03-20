@@ -1,0 +1,501 @@
+customer_id,name,age,gender,location,interests,past_interactions
+1,Customer_1,19,Male,California,Tech,20
+2,Customer_2,61,Male,Florida,Fashion,10
+3,Customer_3,54,Other,Illinois,Music,37
+4,Customer_4,34,Other,Florida,Tech,27
+5,Customer_5,31,Female,New York,Gaming,13
+6,Customer_6,45,Female,California,Fashion,41
+7,Customer_7,44,Female,California,Gaming,2
+8,Customer_8,27,Other,Illinois,Music,21
+9,Customer_9,20,Other,Florida,Gaming,33
+10,Customer_10,53,Other,New York,Tech,24
+11,Customer_11,55,Female,Florida,Tech,44
+12,Customer_12,42,Other,Texas,Sports,42
+13,Customer_13,39,Female,Florida,Fashion,34
+14,Customer_14,56,Female,Illinois,Music,9
+15,Customer_15,64,Male,Florida,Fashion,2
+16,Customer_16,47,Male,California,Gaming,30
+17,Customer_17,38,Male,New York,Music,22
+18,Customer_18,47,Female,Illinois,Music,46
+19,Customer_19,45,Male,Texas,Tech,11
+20,Customer_20,48,Male,New York,Gaming,43
+21,Customer_21,43,Male,New York,Tech,17
+22,Customer_22,60,Other,California,Tech,36
+23,Customer_23,39,Female,California,Sports,13
+24,Customer_24,38,Male,California,Tech,7
+25,Customer_25,18,Other,Illinois,Fashion,16
+26,Customer_26,54,Other,Florida,Music,33
+27,Customer_27,30,Other,New York,Tech,45
+28,Customer_28,38,Male,Florida,Fashion,1
+29,Customer_29,63,Other,Florida,Gaming,11
+30,Customer_30,26,Female,California,Music,6
+31,Customer_31,34,Other,Florida,Gaming,20
+32,Customer_32,64,Other,New York,Fashion,35
+33,Customer_33,38,Other,New York,Gaming,44
+34,Customer_34,48,Other,Texas,Gaming,37
+35,Customer_35,56,Female,Illinois,Gaming,41
+36,Customer_36,39,Male,Florida,Tech,26
+37,Customer_37,29,Female,Illinois,Tech,12
+38,Customer_38,23,Female,Illinois,Tech,30
+39,Customer_39,33,Male,Illinois,Music,28
+40,Customer_40,43,Other,Illinois,Fashion,27
+41,Customer_41,22,Male,New York,Tech,42
+42,Customer_42,26,Male,Florida,Gaming,19
+43,Customer_43,63,Female,Texas,Gaming,5
+44,Customer_44,57,Male,Illinois,Gaming,5
+45,Customer_45,31,Other,Texas,Gaming,41
+46,Customer_46,61,Female,New York,Sports,27
+47,Customer_47,59,Other,New York,Music,28
+48,Customer_48,47,Female,California,Fashion,26
+49,Customer_49,43,Other,Illinois,Fashion,27
+50,Customer_50,62,Male,California,Tech,49
+51,Customer_51,46,Male,Texas,Sports,42
+52,Customer_52,36,Male,Florida,Fashion,21
+53,Customer_53,64,Other,California,Music,1
+54,Customer_54,25,Female,New York,Gaming,28
+55,Customer_55,40,Female,Illinois,Tech,48
+56,Customer_56,59,Female,Texas,Music,15
+57,Customer_57,52,Male,New York,Fashion,17
+58,Customer_58,48,Other,Florida,Sports,26
+59,Customer_59,52,Female,Illinois,Tech,20
+60,Customer_60,49,Other,Florida,Fashion,25
+61,Customer_61,22,Female,Florida,Tech,13
+62,Customer_62,33,Male,Illinois,Fashion,33
+63,Customer_63,34,Other,Illinois,Gaming,25
+64,Customer_64,49,Female,Florida,Sports,8
+65,Customer_65,55,Female,Texas,Gaming,5
+66,Customer_66,49,Female,Illinois,Fashion,6
+67,Customer_67,37,Female,New York,Music,23
+68,Customer_68,19,Male,California,Gaming,30
+69,Customer_69,37,Female,Texas,Music,14
+70,Customer_70,64,Female,Illinois,Fashion,23
+71,Customer_71,35,Male,Illinois,Sports,11
+72,Customer_72,18,Female,Texas,Music,31
+73,Customer_73,46,Other,California,Fashion,6
+74,Customer_74,46,Other,Florida,Music,11
+75,Customer_75,36,Female,New York,Gaming,13
+76,Customer_76,61,Male,Illinois,Fashion,12
+77,Customer_77,57,Male,California,Gaming,2
+78,Customer_78,23,Male,New York,Tech,35
+79,Customer_79,61,Female,Texas,Fashion,36
+80,Customer_80,56,Female,Illinois,Music,17
+81,Customer_81,63,Other,Florida,Tech,28
+82,Customer_82,25,Male,Texas,Gaming,28
+83,Customer_83,41,Female,Illinois,Gaming,22
+84,Customer_84,37,Female,California,Music,38
+85,Customer_85,31,Female,New York,Tech,7
+86,Customer_86,22,Male,New York,Sports,15
+87,Customer_87,58,Male,Illinois,Music,32
+88,Customer_88,57,Other,Texas,Gaming,11
+89,Customer_89,51,Male,Florida,Fashion,24
+90,Customer_90,33,Female,California,Tech,3
+91,Customer_91,62,Other,Illinois,Sports,30
+92,Customer_92,24,Male,California,Fashion,6
+93,Customer_93,33,Male,New York,Tech,2
+94,Customer_94,24,Male,Florida,Music,14
+95,Customer_95,44,Male,California,Music,41
+96,Customer_96,31,Female,Illinois,Tech,18
+97,Customer_97,31,Male,Florida,Sports,44
+98,Customer_98,61,Female,Texas,Tech,31
+99,Customer_99,50,Female,Illinois,Fashion,13
+100,Customer_100,50,Female,California,Fashion,26
+101,Customer_101,61,Other,Florida,Music,44
+102,Customer_102,37,Female,Illinois,Tech,12
+103,Customer_103,64,Male,Florida,Music,18
+104,Customer_104,53,Other,Florida,Sports,9
+105,Customer_105,24,Male,Florida,Fashion,49
+106,Customer_106,49,Female,California,Gaming,21
+107,Customer_107,20,Male,Illinois,Gaming,48
+108,Customer_108,56,Other,New York,Tech,49
+109,Customer_109,46,Other,New York,Tech,40
+110,Customer_110,41,Male,California,Gaming,43
+111,Customer_111,39,Male,California,Tech,24
+112,Customer_112,23,Male,Florida,Fashion,34
+113,Customer_113,41,Other,Illinois,Sports,8
+114,Customer_114,57,Female,Illinois,Sports,44
+115,Customer_115,40,Male,Texas,Music,33
+116,Customer_116,55,Female,Texas,Fashion,23
+117,Customer_117,27,Other,New York,Tech,13
+118,Customer_118,33,Male,Texas,Tech,49
+119,Customer_119,28,Male,Texas,Music,14
+120,Customer_120,49,Other,New York,Music,14
+121,Customer_121,62,Male,New York,Tech,16
+122,Customer_122,23,Female,Texas,Tech,49
+123,Customer_123,41,Other,Illinois,Fashion,38
+124,Customer_124,50,Other,Texas,Music,39
+125,Customer_125,29,Male,Florida,Fashion,26
+126,Customer_126,44,Other,Florida,Tech,26
+127,Customer_127,55,Male,Florida,Gaming,1
+128,Customer_128,35,Male,California,Gaming,32
+129,Customer_129,62,Other,Florida,Tech,15
+130,Customer_130,56,Male,Illinois,Music,21
+131,Customer_131,30,Female,California,Gaming,18
+132,Customer_132,57,Female,California,Music,30
+133,Customer_133,47,Male,Florida,Gaming,13
+134,Customer_134,58,Female,Texas,Music,24
+135,Customer_135,30,Male,New York,Gaming,30
+136,Customer_136,51,Female,Texas,Music,2
+137,Customer_137,53,Other,Texas,Fashion,19
+138,Customer_138,47,Male,California,Music,47
+139,Customer_139,42,Male,California,Fashion,44
+140,Customer_140,19,Male,California,Fashion,47
+141,Customer_141,53,Male,Illinois,Tech,25
+142,Customer_142,35,Male,Illinois,Fashion,14
+143,Customer_143,22,Male,New York,Sports,6
+144,Customer_144,36,Other,California,Fashion,12
+145,Customer_145,59,Other,Florida,Music,20
+146,Customer_146,35,Female,California,Fashion,23
+147,Customer_147,49,Male,Illinois,Music,30
+148,Customer_148,38,Female,California,Music,30
+149,Customer_149,27,Female,Illinois,Sports,38
+150,Customer_150,54,Other,California,Fashion,30
+151,Customer_151,39,Female,Florida,Fashion,41
+152,Customer_152,30,Other,New York,Gaming,30
+153,Customer_153,34,Female,Florida,Gaming,36
+154,Customer_154,26,Male,Illinois,Tech,49
+155,Customer_155,41,Female,Texas,Music,34
+156,Customer_156,61,Other,Florida,Sports,16
+157,Customer_157,31,Other,California,Gaming,24
+158,Customer_158,63,Other,New York,Fashion,14
+159,Customer_159,25,Female,California,Tech,26
+160,Customer_160,54,Female,California,Sports,8
+161,Customer_161,36,Other,Florida,Fashion,14
+162,Customer_162,45,Male,New York,Fashion,31
+163,Customer_163,63,Male,Texas,Music,2
+164,Customer_164,58,Female,California,Music,48
+165,Customer_165,47,Female,New York,Gaming,4
+166,Customer_166,24,Other,Texas,Gaming,1
+167,Customer_167,43,Female,California,Fashion,20
+168,Customer_168,57,Female,New York,Fashion,14
+169,Customer_169,63,Other,Florida,Gaming,40
+170,Customer_170,63,Other,California,Gaming,25
+171,Customer_171,28,Female,California,Fashion,25
+172,Customer_172,31,Male,New York,Sports,3
+173,Customer_173,38,Female,California,Fashion,5
+174,Customer_174,25,Male,Texas,Sports,38
+175,Customer_175,20,Male,California,Sports,26
+176,Customer_176,45,Male,Illinois,Fashion,40
+177,Customer_177,46,Other,Texas,Tech,38
+178,Customer_178,40,Other,New York,Gaming,38
+179,Customer_179,35,Other,Texas,Music,4
+180,Customer_180,52,Female,Illinois,Fashion,7
+181,Customer_181,30,Other,Illinois,Sports,30
+182,Customer_182,29,Other,California,Fashion,30
+183,Customer_183,64,Female,California,Gaming,19
+184,Customer_184,22,Female,Florida,Sports,39
+185,Customer_185,56,Male,Texas,Music,35
+186,Customer_186,28,Female,Florida,Music,40
+187,Customer_187,28,Female,Illinois,Music,33
+188,Customer_188,64,Other,California,Tech,33
+189,Customer_189,59,Male,California,Sports,14
+190,Customer_190,64,Male,California,Sports,38
+191,Customer_191,48,Female,New York,Tech,10
+192,Customer_192,48,Other,Illinois,Sports,28
+193,Customer_193,30,Other,California,Tech,14
+194,Customer_194,31,Other,Illinois,Fashion,36
+195,Customer_195,62,Other,California,Gaming,38
+196,Customer_196,59,Female,Texas,Music,16
+197,Customer_197,42,Other,Illinois,Tech,21
+198,Customer_198,50,Male,Florida,Tech,28
+199,Customer_199,50,Male,New York,Tech,33
+200,Customer_200,32,Female,Florida,Fashion,6
+201,Customer_201,33,Other,Illinois,Tech,41
+202,Customer_202,61,Other,California,Gaming,15
+203,Customer_203,55,Other,Illinois,Gaming,44
+204,Customer_204,23,Other,New York,Music,3
+205,Customer_205,61,Female,Illinois,Fashion,43
+206,Customer_206,42,Other,California,Gaming,47
+207,Customer_207,32,Female,Florida,Sports,35
+208,Customer_208,21,Other,Texas,Sports,14
+209,Customer_209,21,Other,Florida,Sports,2
+210,Customer_210,47,Male,California,Tech,29
+211,Customer_211,51,Female,California,Tech,4
+212,Customer_212,44,Male,New York,Sports,26
+213,Customer_213,48,Female,Illinois,Music,12
+214,Customer_214,49,Other,Illinois,Music,2
+215,Customer_215,61,Other,Florida,Tech,17
+216,Customer_216,56,Female,Texas,Sports,35
+217,Customer_217,26,Male,Texas,Music,10
+218,Customer_218,58,Female,New York,Tech,48
+219,Customer_219,25,Female,California,Sports,22
+220,Customer_220,31,Other,New York,Fashion,41
+221,Customer_221,50,Male,Illinois,Sports,43
+222,Customer_222,40,Female,California,Sports,21
+223,Customer_223,38,Male,New York,Gaming,15
+224,Customer_224,29,Male,Florida,Gaming,35
+225,Customer_225,19,Female,Illinois,Fashion,48
+226,Customer_226,30,Male,Texas,Fashion,21
+227,Customer_227,21,Other,New York,Sports,21
+228,Customer_228,37,Other,Illinois,Music,21
+229,Customer_229,31,Other,Illinois,Fashion,44
+230,Customer_230,47,Other,Texas,Sports,32
+231,Customer_231,46,Male,Texas,Tech,5
+232,Customer_232,25,Other,Texas,Gaming,39
+233,Customer_233,29,Female,New York,Music,9
+234,Customer_234,58,Other,Texas,Sports,18
+235,Customer_235,55,Female,Florida,Tech,21
+236,Customer_236,43,Female,Illinois,Gaming,8
+237,Customer_237,19,Other,Texas,Tech,44
+238,Customer_238,57,Other,Illinois,Sports,34
+239,Customer_239,31,Male,California,Fashion,10
+240,Customer_240,23,Female,California,Gaming,41
+241,Customer_241,59,Other,Texas,Tech,24
+242,Customer_242,57,Male,Illinois,Fashion,40
+243,Customer_243,48,Other,California,Music,24
+244,Customer_244,34,Other,Texas,Sports,32
+245,Customer_245,42,Other,Illinois,Sports,33
+246,Customer_246,49,Female,Texas,Gaming,38
+247,Customer_247,29,Other,Illinois,Tech,44
+248,Customer_248,30,Male,California,Music,49
+249,Customer_249,36,Other,Texas,Gaming,34
+250,Customer_250,61,Other,California,Gaming,11
+251,Customer_251,42,Male,Texas,Tech,31
+252,Customer_252,48,Male,New York,Music,18
+253,Customer_253,54,Female,California,Tech,23
+254,Customer_254,42,Female,California,Sports,22
+255,Customer_255,33,Female,Florida,Fashion,43
+256,Customer_256,55,Female,California,Sports,18
+257,Customer_257,60,Male,Illinois,Sports,40
+258,Customer_258,40,Other,Texas,Gaming,47
+259,Customer_259,31,Other,New York,Sports,41
+260,Customer_260,23,Other,Illinois,Music,47
+261,Customer_261,42,Female,Illinois,Sports,39
+262,Customer_262,40,Male,Illinois,Music,20
+263,Customer_263,60,Male,Illinois,Tech,13
+264,Customer_264,29,Male,New York,Gaming,45
+265,Customer_265,30,Other,Florida,Music,1
+266,Customer_266,53,Female,California,Sports,4
+267,Customer_267,56,Male,Illinois,Gaming,24
+268,Customer_268,51,Female,California,Gaming,36
+269,Customer_269,23,Male,California,Music,36
+270,Customer_270,55,Female,Illinois,Music,45
+271,Customer_271,57,Male,Florida,Fashion,2
+272,Customer_272,25,Female,California,Fashion,28
+273,Customer_273,25,Male,Texas,Gaming,26
+274,Customer_274,57,Male,California,Fashion,23
+275,Customer_275,50,Female,Illinois,Sports,15
+276,Customer_276,51,Female,New York,Tech,36
+277,Customer_277,61,Other,California,Gaming,27
+278,Customer_278,32,Female,Florida,Tech,6
+279,Customer_279,53,Male,Texas,Fashion,35
+280,Customer_280,52,Male,Texas,Music,39
+281,Customer_281,63,Female,New York,Gaming,38
+282,Customer_282,39,Other,New York,Fashion,35
+283,Customer_283,40,Female,California,Sports,36
+284,Customer_284,57,Male,Illinois,Gaming,10
+285,Customer_285,62,Male,Florida,Gaming,30
+286,Customer_286,39,Other,Texas,Music,41
+287,Customer_287,22,Female,New York,Gaming,38
+288,Customer_288,48,Male,Florida,Music,29
+289,Customer_289,30,Male,Illinois,Fashion,43
+290,Customer_290,45,Male,Texas,Sports,39
+291,Customer_291,37,Female,Texas,Sports,4
+292,Customer_292,50,Female,Illinois,Gaming,5
+293,Customer_293,33,Other,Texas,Gaming,4
+294,Customer_294,46,Male,Illinois,Fashion,36
+295,Customer_295,40,Male,Texas,Music,45
+296,Customer_296,41,Other,California,Sports,16
+297,Customer_297,51,Male,Illinois,Music,25
+298,Customer_298,24,Other,Florida,Fashion,14
+299,Customer_299,55,Other,California,Sports,11
+300,Customer_300,54,Male,Florida,Sports,29
+301,Customer_301,21,Female,Texas,Tech,34
+302,Customer_302,51,Female,Florida,Fashion,22
+303,Customer_303,59,Female,California,Fashion,14
+304,Customer_304,39,Female,Illinois,Tech,24
+305,Customer_305,22,Male,New York,Music,39
+306,Customer_306,59,Other,Florida,Tech,26
+307,Customer_307,40,Other,New York,Fashion,43
+308,Customer_308,32,Male,Florida,Music,36
+309,Customer_309,48,Female,Florida,Sports,39
+310,Customer_310,26,Other,Illinois,Tech,16
+311,Customer_311,60,Male,Texas,Music,38
+312,Customer_312,42,Male,California,Music,32
+313,Customer_313,42,Female,California,Music,6
+314,Customer_314,38,Male,California,Tech,34
+315,Customer_315,26,Other,Texas,Sports,8
+316,Customer_316,55,Other,New York,Music,30
+317,Customer_317,39,Male,California,Tech,27
+318,Customer_318,60,Other,New York,Fashion,7
+319,Customer_319,40,Male,Texas,Tech,27
+320,Customer_320,21,Other,Texas,Tech,25
+321,Customer_321,46,Female,Illinois,Tech,46
+322,Customer_322,32,Other,California,Music,41
+323,Customer_323,18,Female,Illinois,Tech,15
+324,Customer_324,47,Female,California,Fashion,25
+325,Customer_325,46,Male,Texas,Music,22
+326,Customer_326,37,Female,Texas,Fashion,18
+327,Customer_327,50,Other,Florida,Gaming,12
+328,Customer_328,58,Other,Florida,Tech,23
+329,Customer_329,61,Female,Texas,Music,45
+330,Customer_330,53,Male,Texas,Music,39
+331,Customer_331,39,Female,New York,Tech,25
+332,Customer_332,30,Other,New York,Sports,10
+333,Customer_333,24,Other,Illinois,Sports,30
+334,Customer_334,25,Female,Florida,Fashion,10
+335,Customer_335,45,Female,Florida,Tech,34
+336,Customer_336,62,Female,Texas,Tech,46
+337,Customer_337,60,Other,Texas,Gaming,13
+338,Customer_338,26,Other,Illinois,Sports,29
+339,Customer_339,42,Other,Florida,Sports,38
+340,Customer_340,33,Male,New York,Tech,41
+341,Customer_341,27,Other,California,Fashion,45
+342,Customer_342,28,Other,Illinois,Tech,9
+343,Customer_343,48,Male,California,Fashion,13
+344,Customer_344,29,Male,New York,Sports,37
+345,Customer_345,48,Male,New York,Gaming,14
+346,Customer_346,31,Male,California,Music,37
+347,Customer_347,61,Male,Illinois,Sports,9
+348,Customer_348,49,Male,California,Fashion,8
+349,Customer_349,34,Female,Illinois,Tech,39
+350,Customer_350,52,Female,Illinois,Sports,40
+351,Customer_351,18,Female,Texas,Gaming,3
+352,Customer_352,46,Female,Florida,Fashion,47
+353,Customer_353,21,Other,Florida,Tech,40
+354,Customer_354,40,Male,New York,Music,33
+355,Customer_355,45,Other,Texas,Fashion,32
+356,Customer_356,33,Male,Florida,Tech,7
+357,Customer_357,29,Male,Illinois,Music,19
+358,Customer_358,38,Other,Illinois,Tech,34
+359,Customer_359,62,Female,California,Music,14
+360,Customer_360,34,Other,California,Music,47
+361,Customer_361,57,Other,Illinois,Music,46
+362,Customer_362,30,Male,Illinois,Tech,19
+363,Customer_363,49,Male,California,Music,26
+364,Customer_364,54,Male,Florida,Fashion,17
+365,Customer_365,32,Female,New York,Gaming,28
+366,Customer_366,29,Other,California,Gaming,19
+367,Customer_367,32,Other,Florida,Music,27
+368,Customer_368,51,Female,Florida,Gaming,48
+369,Customer_369,23,Other,Florida,Gaming,19
+370,Customer_370,34,Other,Texas,Music,33
+371,Customer_371,37,Male,Texas,Music,7
+372,Customer_372,26,Female,Florida,Fashion,29
+373,Customer_373,22,Male,Illinois,Sports,43
+374,Customer_374,40,Female,Texas,Tech,5
+375,Customer_375,50,Male,California,Music,30
+376,Customer_376,55,Other,Texas,Music,49
+377,Customer_377,31,Female,Illinois,Gaming,43
+378,Customer_378,34,Female,New York,Fashion,8
+379,Customer_379,36,Male,Texas,Gaming,42
+380,Customer_380,50,Female,Florida,Music,12
+381,Customer_381,18,Other,Florida,Music,42
+382,Customer_382,30,Other,Florida,Gaming,13
+383,Customer_383,63,Other,New York,Music,26
+384,Customer_384,44,Male,Illinois,Sports,18
+385,Customer_385,23,Female,California,Tech,42
+386,Customer_386,23,Male,Illinois,Tech,49
+387,Customer_387,50,Other,New York,Tech,20
+388,Customer_388,47,Female,Florida,Sports,16
+389,Customer_389,63,Other,Illinois,Music,37
+390,Customer_390,52,Female,California,Gaming,3
+391,Customer_391,40,Female,Florida,Fashion,27
+392,Customer_392,27,Male,California,Music,15
+393,Customer_393,36,Female,Texas,Sports,34
+394,Customer_394,45,Other,California,Sports,45
+395,Customer_395,40,Female,Florida,Tech,22
+396,Customer_396,21,Other,Texas,Music,40
+397,Customer_397,37,Male,Florida,Tech,23
+398,Customer_398,36,Other,Florida,Fashion,49
+399,Customer_399,59,Female,Texas,Tech,4
+400,Customer_400,44,Other,California,Fashion,41
+401,Customer_401,51,Other,New York,Sports,23
+402,Customer_402,21,Female,New York,Tech,47
+403,Customer_403,55,Other,New York,Tech,9
+404,Customer_404,24,Female,New York,Gaming,24
+405,Customer_405,24,Male,Illinois,Sports,21
+406,Customer_406,43,Other,New York,Gaming,41
+407,Customer_407,43,Male,Texas,Fashion,46
+408,Customer_408,36,Other,New York,Fashion,16
+409,Customer_409,26,Other,Florida,Sports,25
+410,Customer_410,37,Male,New York,Fashion,26
+411,Customer_411,59,Other,California,Sports,49
+412,Customer_412,62,Other,Texas,Fashion,45
+413,Customer_413,33,Male,Texas,Music,9
+414,Customer_414,34,Other,Illinois,Tech,15
+415,Customer_415,39,Female,Florida,Music,39
+416,Customer_416,30,Other,Texas,Sports,33
+417,Customer_417,29,Other,California,Sports,1
+418,Customer_418,27,Other,New York,Music,5
+419,Customer_419,18,Male,Texas,Tech,9
+420,Customer_420,49,Female,California,Tech,44
+421,Customer_421,47,Female,New York,Gaming,6
+422,Customer_422,25,Other,Illinois,Fashion,28
+423,Customer_423,38,Male,Texas,Gaming,45
+424,Customer_424,39,Male,Texas,Tech,26
+425,Customer_425,35,Female,California,Music,28
+426,Customer_426,19,Male,Florida,Fashion,40
+427,Customer_427,61,Other,Illinois,Music,15
+428,Customer_428,26,Other,Florida,Gaming,6
+429,Customer_429,20,Male,Texas,Sports,27
+430,Customer_430,43,Other,Florida,Music,38
+431,Customer_431,38,Female,New York,Gaming,4
+432,Customer_432,47,Other,Illinois,Gaming,11
+433,Customer_433,45,Male,Florida,Gaming,21
+434,Customer_434,53,Female,New York,Sports,30
+435,Customer_435,43,Other,California,Sports,18
+436,Customer_436,51,Female,Florida,Sports,35
+437,Customer_437,25,Male,Illinois,Fashion,3
+438,Customer_438,27,Other,New York,Sports,12
+439,Customer_439,60,Other,Florida,Sports,27
+440,Customer_440,31,Female,California,Sports,30
+441,Customer_441,57,Other,Florida,Music,21
+442,Customer_442,32,Other,New York,Sports,38
+443,Customer_443,34,Other,Florida,Fashion,21
+444,Customer_444,35,Other,Illinois,Gaming,38
+445,Customer_445,49,Male,Texas,Music,40
+446,Customer_446,55,Other,New York,Tech,15
+447,Customer_447,40,Female,New York,Sports,18
+448,Customer_448,63,Male,New York,Gaming,29
+449,Customer_449,40,Female,New York,Gaming,48
+450,Customer_450,52,Female,Florida,Music,38
+451,Customer_451,56,Female,Illinois,Tech,21
+452,Customer_452,32,Male,California,Fashion,17
+453,Customer_453,41,Male,Illinois,Gaming,41
+454,Customer_454,45,Male,New York,Gaming,18
+455,Customer_455,33,Other,Florida,Gaming,37
+456,Customer_456,33,Female,Florida,Gaming,38
+457,Customer_457,57,Male,New York,Music,12
+458,Customer_458,56,Female,Florida,Tech,11
+459,Customer_459,23,Male,New York,Gaming,48
+460,Customer_460,19,Male,Illinois,Fashion,49
+461,Customer_461,30,Male,Texas,Fashion,20
+462,Customer_462,61,Female,Florida,Sports,9
+463,Customer_463,64,Other,New York,Gaming,1
+464,Customer_464,26,Male,New York,Gaming,3
+465,Customer_465,51,Male,Florida,Gaming,21
+466,Customer_466,34,Male,California,Gaming,23
+467,Customer_467,44,Other,New York,Gaming,9
+468,Customer_468,46,Female,Florida,Fashion,19
+469,Customer_469,54,Female,New York,Tech,45
+470,Customer_470,60,Female,California,Tech,46
+471,Customer_471,39,Female,Texas,Sports,19
+472,Customer_472,41,Male,California,Fashion,23
+473,Customer_473,24,Other,Illinois,Gaming,27
+474,Customer_474,51,Male,Florida,Tech,27
+475,Customer_475,29,Other,California,Music,39
+476,Customer_476,40,Female,Texas,Music,36
+477,Customer_477,32,Other,New York,Music,12
+478,Customer_478,50,Male,Florida,Gaming,27
+479,Customer_479,30,Male,California,Gaming,46
+480,Customer_480,40,Female,Texas,Sports,34
+481,Customer_481,55,Male,California,Sports,33
+482,Customer_482,49,Male,Illinois,Sports,28
+483,Customer_483,62,Other,Florida,Music,31
+484,Customer_484,52,Male,New York,Gaming,32
+485,Customer_485,18,Female,Texas,Music,20
+486,Customer_486,64,Female,California,Sports,40
+487,Customer_487,62,Male,Florida,Gaming,35
+488,Customer_488,22,Female,California,Fashion,31
+489,Customer_489,30,Other,Florida,Tech,31
+490,Customer_490,22,Other,Illinois,Tech,38
+491,Customer_491,49,Male,California,Sports,22
+492,Customer_492,38,Male,Illinois,Music,45
+493,Customer_493,41,Other,Texas,Fashion,41
+494,Customer_494,35,Female,Illinois,Gaming,9
+495,Customer_495,38,Male,Florida,Music,9
+496,Customer_496,27,Male,Texas,Sports,15
+497,Customer_497,41,Female,California,Music,13
+498,Customer_498,57,Male,California,Sports,22
+499,Customer_499,64,Female,Florida,Tech,16
+500,Customer_500,38,Female,New York,Tech,32
