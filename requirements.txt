@@ -1,0 +1,10 @@
+streamlit
+pandas
+configparser
+langchain-openai
+langchain-core
+sounddevice
+scipy
+SpeechRecognition
+paddleocr
+sentence-transformers

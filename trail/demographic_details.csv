@@ -1,0 +1,501 @@
+Customer_Id,Location,Marital Status,Dependents,Home Ownership,Nationality
+4001,Suburban,Married,2,Living with Family,Indian
+4002,Rural,Divorced,2,Rent,Canadian
+4003,Rural,Divorced,1,Rent,Australian
+4004,Rural,Divorced,2,Own,American
+4005,Rural,Divorced,3,Own,British
+4006,Rural,Married,1,Living with Family,American
+4007,Rural,Married,0,Own,Australian
+4008,Urban,Single,1,Living with Family,Australian
+4009,Rural,Married,2,Living with Family,Australian
+4010,Urban,Single,2,Own,Indian
+4011,Suburban,Divorced,3,Living with Family,Canadian
+4012,Urban,Widowed,1,Own,Indian
+4013,Urban,Single,2,Living with Family,Canadian
+4014,Rural,Widowed,0,Own,Australian
+4015,Suburban,Divorced,2,Rent,British
+4016,Rural,Single,2,Living with Family,Indian
+4017,Urban,Single,2,Own,Canadian
+4018,Urban,Widowed,0,Rent,Australian
+4019,Urban,Married,1,Rent,Indian
+4020,Rural,Single,1,Living with Family,Canadian
+4021,Suburban,Single,3,Living with Family,British
+4022,Suburban,Widowed,0,Own,British
+4023,Rural,Married,2,Rent,British
+4024,Rural,Married,0,Living with Family,British
+4025,Urban,Married,0,Rent,Canadian
+4026,Urban,Widowed,1,Living with Family,Canadian
+4027,Urban,Divorced,1,Rent,British
+4028,Suburban,Divorced,1,Own,Australian
+4029,Suburban,Divorced,3,Living with Family,American
+4030,Urban,Married,0,Living with Family,Australian
+4031,Urban,Widowed,3,Living with Family,Australian
+4032,Rural,Widowed,1,Living with Family,Australian
+4033,Rural,Single,2,Rent,Canadian
+4034,Suburban,Widowed,2,Own,Indian
+4035,Urban,Married,1,Own,British
+4036,Rural,Single,3,Own,Australian
+4037,Urban,Married,1,Own,British
+4038,Suburban,Single,0,Rent,Indian
+4039,Rural,Widowed,1,Own,British
+4040,Suburban,Divorced,2,Rent,Canadian
+4041,Urban,Divorced,2,Living with Family,British
+4042,Rural,Single,3,Living with Family,British
+4043,Rural,Divorced,1,Rent,Australian
+4044,Urban,Married,0,Rent,Indian
+4045,Urban,Widowed,3,Own,Indian
+4046,Suburban,Married,0,Own,British
+4047,Suburban,Single,2,Rent,Indian
+4048,Suburban,Divorced,3,Rent,Indian
+4049,Suburban,Divorced,2,Living with Family,Canadian
+4050,Rural,Married,2,Rent,American
+4051,Suburban,Married,0,Rent,Australian
+4052,Rural,Single,3,Own,Canadian
+4053,Urban,Widowed,0,Own,British
+4054,Rural,Married,3,Living with Family,Canadian
+4055,Rural,Widowed,2,Own,Australian
+4056,Suburban,Married,0,Living with Family,Australian
+4057,Suburban,Widowed,0,Own,Indian
+4058,Urban,Married,0,Living with Family,American
+4059,Rural,Divorced,1,Own,Canadian
+4060,Urban,Married,3,Living with Family,Canadian
+4061,Urban,Single,0,Own,Australian
+4062,Urban,Married,1,Living with Family,American
+4063,Suburban,Married,2,Living with Family,Canadian
+4064,Rural,Single,1,Living with Family,Australian
+4065,Rural,Widowed,0,Rent,Canadian
+4066,Suburban,Married,1,Own,Canadian
+4067,Suburban,Single,0,Living with Family,British
+4068,Urban,Widowed,1,Own,Australian
+4069,Rural,Single,0,Rent,Australian
+4070,Rural,Divorced,3,Own,British
+4071,Rural,Married,2,Own,British
+4072,Urban,Widowed,2,Own,Australian
+4073,Suburban,Widowed,0,Rent,British
+4074,Rural,Divorced,2,Rent,Indian
+4075,Suburban,Widowed,3,Rent,British
+4076,Rural,Widowed,0,Rent,American
+4077,Urban,Widowed,0,Own,Australian
+4078,Suburban,Married,2,Living with Family,Australian
+4079,Urban,Divorced,2,Living with Family,British
+4080,Rural,Widowed,2,Rent,American
+4081,Urban,Widowed,1,Rent,British
+4082,Urban,Married,1,Living with Family,Australian
+4083,Urban,Widowed,3,Own,Australian
+4084,Suburban,Divorced,3,Rent,Australian
+4085,Urban,Widowed,3,Rent,Indian
+4086,Urban,Married,2,Living with Family,Indian
+4087,Rural,Divorced,3,Rent,Canadian
+4088,Urban,Single,1,Living with Family,British
+4089,Suburban,Divorced,0,Own,American
+4090,Urban,Widowed,1,Living with Family,American
+4091,Suburban,Married,1,Living with Family,British
+4092,Rural,Widowed,2,Own,British
+4093,Urban,Married,2,Living with Family,Canadian
+4094,Urban,Married,0,Rent,Canadian
+4095,Urban,Married,1,Living with Family,Canadian
+4096,Urban,Married,0,Rent,Indian
+4097,Rural,Married,3,Living with Family,American
+4098,Urban,Widowed,1,Rent,Canadian
+4099,Suburban,Single,1,Rent,American
+4100,Urban,Widowed,1,Rent,Indian
+4101,Suburban,Single,1,Living with Family,Canadian
+4102,Suburban,Widowed,2,Living with Family,Australian
+4103,Urban,Widowed,3,Rent,Canadian
+4104,Suburban,Married,1,Own,British
+4105,Rural,Single,0,Living with Family,Australian
+4106,Urban,Married,2,Rent,American
+4107,Rural,Divorced,2,Living with Family,Indian
+4108,Rural,Married,1,Rent,American
+4109,Suburban,Widowed,0,Own,British
+4110,Suburban,Single,0,Own,Canadian
+4111,Rural,Widowed,2,Living with Family,Canadian
+4112,Rural,Widowed,3,Living with Family,British
+4113,Rural,Divorced,3,Rent,Canadian
+4114,Suburban,Married,0,Own,Indian
+4115,Suburban,Married,2,Own,Canadian
+4116,Rural,Single,1,Rent,Indian
+4117,Urban,Widowed,1,Own,Canadian
+4118,Rural,Married,0,Living with Family,American
+4119,Rural,Married,0,Living with Family,British
+4120,Suburban,Single,2,Own,Indian
+4121,Rural,Single,0,Living with Family,Australian
+4122,Suburban,Divorced,0,Living with Family,British
+4123,Rural,Single,2,Rent,American
+4124,Urban,Married,0,Rent,American
+4125,Suburban,Widowed,3,Own,British
+4126,Urban,Single,3,Own,British
+4127,Rural,Widowed,1,Rent,Indian
+4128,Suburban,Single,0,Living with Family,British
+4129,Urban,Married,2,Living with Family,Canadian
+4130,Suburban,Widowed,1,Own,Canadian
+4131,Suburban,Single,2,Living with Family,Canadian
+4132,Rural,Single,2,Own,American
+4133,Rural,Married,1,Living with Family,Australian
+4134,Suburban,Widowed,3,Own,British
+4135,Urban,Married,3,Rent,Indian
+4136,Urban,Married,3,Own,American
+4137,Rural,Widowed,2,Living with Family,Australian
+4138,Suburban,Married,3,Own,British
+4139,Rural,Single,0,Own,Australian
+4140,Urban,Divorced,2,Living with Family,Australian
+4141,Rural,Married,3,Rent,British
+4142,Urban,Married,3,Rent,Indian
+4143,Suburban,Divorced,0,Own,Canadian
+4144,Rural,Divorced,3,Rent,Canadian
+4145,Rural,Divorced,0,Living with Family,Canadian
+4146,Urban,Single,1,Own,Canadian
+4147,Urban,Divorced,2,Own,British
+4148,Suburban,Divorced,3,Rent,British
+4149,Rural,Single,3,Rent,American
+4150,Rural,Widowed,1,Own,Indian
+4151,Suburban,Single,3,Own,American
+4152,Urban,Single,3,Living with Family,Canadian
+4153,Suburban,Single,0,Living with Family,Canadian
+4154,Urban,Widowed,3,Rent,British
+4155,Urban,Divorced,1,Living with Family,Australian
+4156,Suburban,Single,0,Rent,American
+4157,Rural,Widowed,2,Rent,Australian
+4158,Urban,Divorced,3,Own,American
+4159,Urban,Married,3,Living with Family,British
+4160,Suburban,Widowed,3,Own,American
+4161,Rural,Single,0,Living with Family,Australian
+4162,Suburban,Widowed,2,Living with Family,Canadian
+4163,Suburban,Single,3,Own,Canadian
+4164,Suburban,Married,0,Own,Australian
+4165,Rural,Single,2,Own,Canadian
+4166,Urban,Widowed,3,Rent,British
+4167,Suburban,Single,2,Own,Canadian
+4168,Suburban,Married,0,Own,Australian
+4169,Urban,Single,3,Rent,American
+4170,Suburban,Divorced,0,Own,Canadian
+4171,Suburban,Divorced,3,Rent,Australian
+4172,Rural,Widowed,3,Living with Family,Canadian
+4173,Suburban,Widowed,3,Rent,Canadian
+4174,Rural,Single,2,Living with Family,Canadian
+4175,Urban,Married,1,Own,British
+4176,Rural,Single,1,Living with Family,Australian
+4177,Urban,Divorced,1,Living with Family,American
+4178,Suburban,Widowed,2,Rent,Australian
+4179,Rural,Married,0,Living with Family,Canadian
+4180,Urban,Single,2,Rent,Australian
+4181,Rural,Widowed,0,Living with Family,Canadian
+4182,Suburban,Married,0,Rent,British
+4183,Suburban,Widowed,2,Rent,British
+4184,Urban,Divorced,1,Living with Family,American
+4185,Rural,Married,0,Own,American
+4186,Rural,Single,3,Living with Family,American
+4187,Suburban,Single,3,Living with Family,American
+4188,Urban,Married,0,Living with Family,Canadian
+4189,Suburban,Divorced,1,Own,American
+4190,Suburban,Married,2,Rent,Canadian
+4191,Rural,Divorced,2,Rent,American
+4192,Rural,Married,0,Rent,Indian
+4193,Urban,Divorced,3,Living with Family,Indian
+4194,Suburban,Single,3,Own,British
+4195,Suburban,Married,1,Living with Family,Indian
+4196,Rural,Widowed,3,Rent,Canadian
+4197,Rural,Married,0,Own,Indian
+4198,Rural,Married,1,Own,British
+4199,Urban,Single,1,Own,Australian
+4200,Rural,Divorced,0,Rent,British
+4201,Suburban,Widowed,3,Own,Australian
+4202,Rural,Widowed,2,Living with Family,British
+4203,Suburban,Married,0,Own,American
+4204,Suburban,Widowed,1,Living with Family,Indian
+4205,Urban,Single,0,Living with Family,Canadian
+4206,Urban,Single,3,Rent,Australian
+4207,Urban,Married,1,Own,Canadian
+4208,Rural,Single,2,Living with Family,Indian
+4209,Rural,Divorced,1,Rent,Australian
+4210,Rural,Widowed,1,Living with Family,British
+4211,Urban,Married,3,Living with Family,Australian
+4212,Rural,Divorced,0,Living with Family,Australian
+4213,Urban,Single,1,Rent,American
+4214,Urban,Married,3,Living with Family,Australian
+4215,Urban,Married,2,Own,American
+4216,Urban,Single,1,Rent,Canadian
+4217,Urban,Married,1,Living with Family,Australian
+4218,Suburban,Widowed,3,Own,Australian
+4219,Urban,Divorced,2,Rent,Australian
+4220,Suburban,Widowed,0,Rent,American
+4221,Suburban,Widowed,1,Living with Family,Australian
+4222,Urban,Married,0,Own,Indian
+4223,Suburban,Married,3,Rent,British
+4224,Suburban,Married,3,Rent,Indian
+4225,Urban,Married,3,Living with Family,Indian
+4226,Suburban,Widowed,2,Living with Family,Indian
+4227,Urban,Divorced,3,Rent,Canadian
+4228,Rural,Divorced,1,Rent,Australian
+4229,Rural,Married,0,Own,Canadian
+4230,Suburban,Single,3,Rent,British
+4231,Urban,Single,1,Living with Family,Canadian
+4232,Urban,Married,1,Rent,Canadian
+4233,Urban,Widowed,1,Own,American
+4234,Urban,Widowed,1,Rent,Indian
+4235,Suburban,Single,0,Living with Family,Indian
+4236,Suburban,Widowed,3,Rent,Australian
+4237,Rural,Divorced,0,Rent,Australian
+4238,Suburban,Single,3,Own,Indian
+4239,Suburban,Widowed,1,Rent,Australian
+4240,Suburban,Widowed,0,Own,British
+4241,Rural,Divorced,0,Rent,Indian
+4242,Urban,Widowed,2,Rent,Indian
+4243,Suburban,Married,1,Living with Family,American
+4244,Suburban,Single,1,Living with Family,American
+4245,Rural,Married,2,Own,Australian
+4246,Rural,Widowed,0,Rent,Indian
+4247,Rural,Widowed,0,Own,Indian
+4248,Urban,Single,1,Living with Family,British
+4249,Rural,Divorced,0,Living with Family,Canadian
+4250,Urban,Divorced,3,Rent,Indian
+4251,Urban,Single,1,Own,Canadian
+4252,Rural,Divorced,0,Rent,Canadian
+4253,Suburban,Divorced,3,Own,Australian
+4254,Suburban,Divorced,1,Own,Indian
+4255,Suburban,Widowed,0,Living with Family,Australian
+4256,Urban,Widowed,3,Living with Family,Australian
+4257,Suburban,Married,3,Rent,British
+4258,Suburban,Widowed,0,Own,Australian
+4259,Suburban,Single,3,Living with Family,Canadian
+4260,Urban,Married,1,Own,American
+4261,Urban,Single,1,Own,Canadian
+4262,Urban,Married,0,Living with Family,Canadian
+4263,Rural,Divorced,2,Living with Family,Australian
+4264,Suburban,Single,0,Own,Australian
+4265,Rural,Divorced,1,Living with Family,American
+4266,Urban,Married,3,Rent,Australian
+4267,Rural,Divorced,1,Living with Family,British
+4268,Urban,Widowed,1,Rent,Australian
+4269,Suburban,Married,1,Rent,Australian
+4270,Suburban,Married,3,Own,Indian
+4271,Urban,Married,3,Rent,British
+4272,Urban,Widowed,1,Own,American
+4273,Urban,Widowed,1,Rent,Australian
+4274,Rural,Single,0,Living with Family,American
+4275,Suburban,Single,3,Rent,American
+4276,Urban,Divorced,0,Rent,Indian
+4277,Rural,Divorced,2,Own,Indian
+4278,Rural,Married,0,Living with Family,Australian
+4279,Suburban,Married,1,Living with Family,Indian
+4280,Suburban,Widowed,1,Own,Australian
+4281,Suburban,Single,0,Living with Family,American
+4282,Suburban,Widowed,3,Own,American
+4283,Suburban,Married,3,Rent,Australian
+4284,Rural,Divorced,1,Rent,American
+4285,Suburban,Divorced,2,Rent,American
+4286,Urban,Divorced,0,Living with Family,Indian
+4287,Urban,Divorced,2,Living with Family,American
+4288,Rural,Widowed,0,Own,British
+4289,Suburban,Divorced,0,Own,Australian
+4290,Rural,Married,3,Own,Indian
+4291,Suburban,Widowed,2,Living with Family,American
+4292,Rural,Widowed,2,Rent,Canadian
+4293,Suburban,Married,3,Own,British
+4294,Suburban,Widowed,0,Rent,Indian
+4295,Rural,Divorced,2,Own,British
+4296,Rural,Married,1,Living with Family,Indian
+4297,Suburban,Widowed,2,Own,Australian
+4298,Urban,Divorced,1,Own,Canadian
+4299,Urban,Single,3,Rent,Australian
+4300,Suburban,Divorced,3,Living with Family,Canadian
+4301,Rural,Widowed,1,Rent,American
+4302,Urban,Divorced,0,Living with Family,British
+4303,Urban,Married,0,Living with Family,American
+4304,Urban,Single,0,Own,Indian
+4305,Rural,Single,0,Rent,Canadian
+4306,Urban,Single,0,Own,Canadian
+4307,Suburban,Single,0,Own,Canadian
+4308,Rural,Divorced,0,Living with Family,British
+4309,Rural,Married,3,Own,British
+4310,Suburban,Married,1,Rent,British
+4311,Urban,Single,0,Rent,Australian
+4312,Urban,Single,0,Own,American
+4313,Suburban,Single,3,Living with Family,Australian
+4314,Suburban,Married,3,Rent,British
+4315,Suburban,Divorced,2,Living with Family,British
+4316,Rural,Widowed,0,Own,Australian
+4317,Suburban,Divorced,2,Living with Family,Australian
+4318,Suburban,Single,0,Own,British
+4319,Urban,Single,0,Living with Family,British
+4320,Suburban,Widowed,0,Own,British
+4321,Urban,Married,1,Own,British
+4322,Urban,Married,2,Rent,British
+4323,Suburban,Divorced,0,Own,American
+4324,Urban,Widowed,0,Own,American
+4325,Suburban,Single,0,Own,British
+4326,Rural,Single,3,Living with Family,American
+4327,Rural,Divorced,0,Living with Family,British
+4328,Suburban,Single,3,Own,Indian
+4329,Suburban,Divorced,3,Own,Indian
+4330,Suburban,Married,3,Living with Family,Australian
+4331,Urban,Single,1,Living with Family,British
+4332,Urban,Single,3,Rent,Canadian
+4333,Rural,Single,2,Rent,Canadian
+4334,Urban,Divorced,3,Living with Family,Canadian
+4335,Suburban,Married,1,Living with Family,Indian
+4336,Suburban,Widowed,0,Living with Family,American
+4337,Rural,Married,2,Living with Family,Canadian
+4338,Suburban,Divorced,3,Own,Indian
+4339,Urban,Divorced,0,Living with Family,Australian
+4340,Urban,Married,2,Own,Indian
+4341,Suburban,Divorced,1,Rent,Australian
+4342,Urban,Divorced,0,Rent,British
+4343,Rural,Single,0,Rent,American
+4344,Suburban,Married,0,Rent,British
+4345,Urban,Single,3,Rent,Australian
+4346,Suburban,Divorced,1,Living with Family,Indian
+4347,Rural,Widowed,3,Living with Family,Canadian
+4348,Urban,Married,2,Rent,Canadian
+4349,Rural,Widowed,0,Own,American
+4350,Urban,Married,1,Own,Australian
+4351,Suburban,Widowed,2,Rent,Canadian
+4352,Urban,Widowed,3,Living with Family,British
+4353,Rural,Married,2,Own,American
+4354,Suburban,Married,1,Rent,British
+4355,Urban,Widowed,0,Rent,Australian
+4356,Urban,Widowed,1,Own,American
+4357,Urban,Divorced,0,Rent,British
+4358,Urban,Widowed,3,Living with Family,American
+4359,Rural,Divorced,3,Own,Canadian
+4360,Urban,Married,1,Rent,Canadian
+4361,Urban,Single,0,Living with Family,Indian
+4362,Urban,Divorced,3,Own,American
+4363,Rural,Single,2,Living with Family,British
+4364,Urban,Divorced,0,Living with Family,Canadian
+4365,Suburban,Divorced,1,Living with Family,American
+4366,Urban,Divorced,1,Own,Australian
+4367,Rural,Married,2,Rent,American
+4368,Urban,Married,1,Rent,British
+4369,Urban,Widowed,2,Own,Indian
+4370,Rural,Married,2,Rent,Indian
+4371,Rural,Divorced,3,Living with Family,British
+4372,Urban,Married,0,Own,Australian
+4373,Suburban,Married,3,Living with Family,Canadian
+4374,Urban,Widowed,1,Own,Australian
+4375,Urban,Married,3,Living with Family,Canadian
+4376,Urban,Divorced,0,Own,British
+4377,Urban,Divorced,3,Own,American
+4378,Suburban,Married,1,Rent,Indian
+4379,Suburban,Married,1,Own,Canadian
+4380,Urban,Single,2,Living with Family,Australian
+4381,Urban,Married,0,Own,Canadian
+4382,Rural,Married,3,Living with Family,Indian
+4383,Urban,Single,2,Living with Family,American
+4384,Rural,Widowed,2,Own,British
+4385,Urban,Divorced,0,Living with Family,Indian
+4386,Rural,Divorced,3,Own,Indian
+4387,Suburban,Married,0,Living with Family,Indian
+4388,Rural,Widowed,2,Own,British
+4389,Rural,Single,3,Own,Canadian
+4390,Rural,Divorced,1,Living with Family,Australian
+4391,Urban,Divorced,2,Living with Family,British
+4392,Suburban,Divorced,0,Living with Family,Canadian
+4393,Suburban,Single,1,Own,British
+4394,Urban,Widowed,1,Living with Family,Canadian
+4395,Urban,Widowed,1,Living with Family,American
+4396,Urban,Single,1,Own,American
+4397,Urban,Married,2,Living with Family,Canadian
+4398,Rural,Single,3,Rent,Indian
+4399,Rural,Widowed,3,Own,Indian
+4400,Rural,Widowed,3,Rent,Australian
+4401,Urban,Divorced,0,Rent,British
+4402,Suburban,Married,2,Own,American
+4403,Suburban,Divorced,3,Own,Australian
+4404,Suburban,Married,1,Living with Family,Canadian
+4405,Urban,Married,2,Own,American
+4406,Suburban,Married,2,Own,Indian
+4407,Rural,Married,0,Rent,Australian
+4408,Rural,Single,2,Rent,British
+4409,Suburban,Single,1,Own,American
+4410,Urban,Divorced,2,Living with Family,Canadian
+4411,Suburban,Married,1,Living with Family,British
+4412,Suburban,Divorced,0,Own,British
+4413,Suburban,Divorced,2,Rent,Canadian
+4414,Urban,Married,2,Living with Family,Canadian
+4415,Suburban,Widowed,1,Own,British
+4416,Urban,Divorced,2,Own,American
+4417,Suburban,Divorced,2,Own,Canadian
+4418,Urban,Divorced,1,Living with Family,Australian
+4419,Rural,Widowed,3,Living with Family,British
+4420,Suburban,Married,0,Rent,American
+4421,Rural,Married,2,Rent,Indian
+4422,Rural,Single,1,Living with Family,American
+4423,Rural,Married,0,Living with Family,British
+4424,Urban,Divorced,2,Own,British
+4425,Urban,Divorced,1,Living with Family,British
+4426,Urban,Married,0,Living with Family,Canadian
+4427,Rural,Divorced,3,Own,American
+4428,Suburban,Married,3,Rent,Indian
+4429,Rural,Divorced,2,Own,Indian
+4430,Rural,Married,2,Own,American
+4431,Suburban,Married,2,Rent,American
+4432,Rural,Married,2,Rent,Indian
+4433,Urban,Widowed,2,Own,Indian
+4434,Urban,Single,0,Rent,Indian
+4435,Urban,Married,0,Own,American
+4436,Urban,Divorced,3,Own,Canadian
+4437,Urban,Married,0,Living with Family,Indian
+4438,Suburban,Widowed,3,Rent,American
+4439,Urban,Widowed,1,Own,Australian
+4440,Rural,Divorced,3,Living with Family,Canadian
+4441,Rural,Widowed,0,Living with Family,Canadian
+4442,Suburban,Widowed,1,Own,Australian
+4443,Suburban,Divorced,3,Rent,American
+4444,Urban,Divorced,3,Living with Family,American
+4445,Urban,Married,1,Own,American
+4446,Urban,Single,0,Rent,Indian
+4447,Urban,Married,3,Rent,Canadian
+4448,Suburban,Widowed,1,Living with Family,Australian
+4449,Suburban,Divorced,0,Living with Family,Indian
+4450,Rural,Single,2,Living with Family,Indian
+4451,Suburban,Widowed,3,Living with Family,Australian
+4452,Urban,Widowed,1,Living with Family,American
+4453,Urban,Widowed,1,Rent,Canadian
+4454,Suburban,Widowed,0,Living with Family,American
+4455,Suburban,Married,2,Own,American
+4456,Suburban,Married,2,Rent,American
+4457,Urban,Married,1,Living with Family,Canadian
+4458,Rural,Widowed,3,Living with Family,British
+4459,Rural,Single,3,Rent,Australian
+4460,Suburban,Divorced,0,Own,Indian
+4461,Rural,Widowed,0,Living with Family,Indian
+4462,Suburban,Married,2,Living with Family,Indian
+4463,Rural,Divorced,0,Living with Family,Australian
+4464,Rural,Divorced,1,Own,Indian
+4465,Rural,Single,0,Living with Family,American
+4466,Urban,Married,1,Rent,Australian
+4467,Urban,Divorced,2,Living with Family,Indian
+4468,Suburban,Widowed,3,Own,American
+4469,Urban,Widowed,0,Living with Family,American
+4470,Urban,Married,0,Own,Australian
+4471,Suburban,Widowed,1,Own,British
+4472,Urban,Single,3,Living with Family,Indian
+4473,Urban,Single,0,Own,British
+4474,Suburban,Widowed,0,Living with Family,Australian
+4475,Suburban,Single,0,Own,American
+4476,Rural,Married,3,Rent,Indian
+4477,Urban,Widowed,3,Rent,British
+4478,Suburban,Divorced,2,Living with Family,Australian
+4479,Urban,Divorced,2,Living with Family,Indian
+4480,Urban,Married,3,Own,British
+4481,Urban,Married,1,Living with Family,American
+4482,Suburban,Divorced,1,Living with Family,Australian
+4483,Rural,Married,3,Living with Family,British
+4484,Urban,Divorced,1,Living with Family,British
+4485,Urban,Divorced,1,Own,Indian
+4486,Suburban,Widowed,1,Living with Family,Canadian
+4487,Suburban,Married,3,Own,American
+4488,Suburban,Single,3,Living with Family,Indian
+4489,Urban,Widowed,1,Own,Canadian
+4490,Suburban,Divorced,2,Own,Canadian
+4491,Rural,Single,0,Own,American
+4492,Suburban,Widowed,0,Rent,British
+4493,Suburban,Single,1,Rent,American
+4494,Suburban,Married,1,Rent,British
+4495,Rural,Divorced,0,Living with Family,Australian
+4496,Rural,Widowed,1,Living with Family,British
+4497,Urban,Married,1,Rent,Canadian
+4498,Urban,Widowed,2,Rent,Canadian
+4499,Suburban,Single,0,Living with Family,Australian
+4500,Urban,Married,0,Own,British
