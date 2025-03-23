@@ -1,0 +1,501 @@
+Customer_Id,Age,gender,Interests,Preferences,Income per year,Education,Occupation
+4001,19,Non-binary,Tech,Hybrid,106573,Master's,Entrepreneur
+4002,47,Non-binary,Tech,In-Store,79632,High School,Doctor
+4003,56,Male,Fashion,Online Shopping,35309,Bachelor's,Teacher
+4004,33,Male,Fashion,Online Shopping,74833,High School,Doctor
+4005,44,Non-binary,Travel,Hybrid,129686,High School,Designer
+4006,30,Male,Gaming,Online Shopping,102901,PhD,Designer
+4007,21,Male,Travel,Online Shopping,34374,Master's,Engineer
+4008,53,Male,Tech,Online Shopping,110715,High School,Teacher
+4009,57,Female,Sports,Hybrid,51330,Bachelor's,Entrepreneur
+4010,56,Male,Gaming,In-Store,62766,PhD,Entrepreneur
+4011,61,Non-binary,Gaming,In-Store,37424,High School,Doctor
+4012,18,Female,Fashion,In-Store,116084,PhD,Designer
+4013,48,Male,Fashion,Hybrid,149735,Master's,Entrepreneur
+4014,33,Female,Tech,In-Store,90119,High School,Doctor
+4015,59,Non-binary,Travel,Hybrid,43332,Bachelor's,Designer
+4016,24,Male,Gaming,Hybrid,123842,Bachelor's,Doctor
+4017,39,Male,Travel,Hybrid,115261,Bachelor's,Engineer
+4018,54,Male,Tech,Online Shopping,143591,Master's,Teacher
+4019,30,Male,Gaming,In-Store,81063,High School,Designer
+4020,41,Female,Tech,Online Shopping,64912,Master's,Entrepreneur
+4021,33,Female,Travel,Online Shopping,92625,Master's,Entrepreneur
+4022,55,Male,Sports,Hybrid,83074,PhD,Entrepreneur
+4023,63,Non-binary,Sports,Online Shopping,110209,PhD,Entrepreneur
+4024,24,Male,Tech,Hybrid,38097,Bachelor's,Doctor
+4025,44,Male,Fashion,In-Store,58034,High School,Engineer
+4026,40,Female,Gaming,Online Shopping,64934,Master's,Doctor
+4027,42,Non-binary,Sports,Online Shopping,59893,Master's,Teacher
+4028,23,Non-binary,Tech,In-Store,83188,Master's,Designer
+4029,51,Male,Gaming,Online Shopping,90949,PhD,Designer
+4030,31,Male,Gaming,Hybrid,37364,Master's,Doctor
+4031,18,Male,Travel,Hybrid,38429,PhD,Doctor
+4032,25,Male,Tech,Hybrid,142904,High School,Doctor
+4033,64,Female,Travel,Hybrid,121399,Master's,Designer
+4034,62,Non-binary,Fashion,Online Shopping,45249,PhD,Entrepreneur
+4035,44,Female,Tech,In-Store,101484,Master's,Teacher
+4036,38,Non-binary,Fashion,Hybrid,112435,PhD,Entrepreneur
+4037,58,Non-binary,Fashion,Online Shopping,88566,High School,Designer
+4038,50,Female,Tech,Hybrid,58342,PhD,Entrepreneur
+4039,24,Non-binary,Tech,In-Store,94895,Bachelor's,Teacher
+4040,56,Non-binary,Fashion,In-Store,128348,Bachelor's,Designer
+4041,26,Female,Fashion,In-Store,35380,Master's,Designer
+4042,20,Non-binary,Fashion,In-Store,31044,High School,Doctor
+4043,51,Male,Travel,In-Store,78785,High School,Teacher
+4044,59,Male,Sports,In-Store,60450,Master's,Doctor
+4045,44,Non-binary,Fashion,Hybrid,74466,Master's,Designer
+4046,35,Female,Fashion,Hybrid,31209,PhD,Designer
+4047,59,Male,Gaming,Online Shopping,146010,Master's,Doctor
+4048,40,Male,Gaming,In-Store,47643,Bachelor's,Engineer
+4049,52,Male,Gaming,Hybrid,79214,PhD,Teacher
+4050,36,Male,Travel,In-Store,92474,PhD,Engineer
+4051,62,Non-binary,Gaming,Online Shopping,41526,Bachelor's,Designer
+4052,44,Male,Travel,In-Store,79695,Bachelor's,Designer
+4053,57,Female,Tech,In-Store,83531,Bachelor's,Teacher
+4054,39,Male,Sports,Online Shopping,66295,PhD,Entrepreneur
+4055,47,Non-binary,Travel,Online Shopping,70388,Master's,Teacher
+4056,49,Female,Gaming,Online Shopping,112488,PhD,Doctor
+4057,33,Non-binary,Tech,Hybrid,95440,Bachelor's,Entrepreneur
+4058,31,Female,Travel,Hybrid,119182,Bachelor's,Teacher
+4059,42,Male,Tech,In-Store,142733,Master's,Engineer
+4060,64,Female,Travel,Online Shopping,76856,High School,Doctor
+4061,34,Male,Travel,Online Shopping,141723,High School,Doctor
+4062,46,Male,Fashion,Hybrid,102398,Bachelor's,Entrepreneur
+4063,34,Male,Fashion,Hybrid,79618,High School,Teacher
+4064,22,Female,Tech,Online Shopping,33914,Master's,Engineer
+4065,49,Female,Gaming,In-Store,147838,PhD,Teacher
+4066,46,Non-binary,Travel,Online Shopping,64404,Master's,Doctor
+4067,42,Male,Fashion,In-Store,70220,PhD,Engineer
+4068,27,Male,Fashion,Hybrid,61947,PhD,Doctor
+4069,31,Male,Sports,Online Shopping,113769,Master's,Entrepreneur
+4070,24,Non-binary,Travel,In-Store,94859,PhD,Engineer
+4071,44,Female,Gaming,In-Store,53546,High School,Designer
+4072,25,Non-binary,Sports,Hybrid,33815,Bachelor's,Teacher
+4073,22,Female,Gaming,In-Store,38846,High School,Doctor
+4074,22,Non-binary,Tech,Online Shopping,70154,Bachelor's,Teacher
+4075,54,Non-binary,Fashion,In-Store,95501,High School,Engineer
+4076,56,Male,Sports,Online Shopping,47526,Master's,Designer
+4077,64,Non-binary,Gaming,Online Shopping,149422,Master's,Entrepreneur
+4078,45,Male,Fashion,Hybrid,39875,Master's,Entrepreneur
+4079,36,Non-binary,Sports,Online Shopping,37284,Master's,Designer
+4080,36,Non-binary,Fashion,In-Store,68729,High School,Teacher
+4081,38,Non-binary,Sports,Online Shopping,42610,High School,Designer
+4082,31,Male,Fashion,Hybrid,62720,Bachelor's,Entrepreneur
+4083,62,Female,Tech,Online Shopping,96238,PhD,Designer
+4084,42,Female,Sports,In-Store,119495,Bachelor's,Doctor
+4085,25,Non-binary,Sports,Hybrid,72311,PhD,Teacher
+4086,52,Non-binary,Travel,Online Shopping,42285,Master's,Designer
+4087,46,Male,Tech,Hybrid,82213,PhD,Engineer
+4088,28,Male,Gaming,Hybrid,75528,High School,Teacher
+4089,59,Non-binary,Fashion,Hybrid,122157,Bachelor's,Designer
+4090,19,Male,Sports,Hybrid,123327,PhD,Teacher
+4091,46,Non-binary,Gaming,In-Store,139871,High School,Doctor
+4092,56,Female,Travel,Hybrid,107327,Master's,Engineer
+4093,30,Non-binary,Travel,Hybrid,66288,Master's,Doctor
+4094,54,Male,Tech,Hybrid,94773,PhD,Engineer
+4095,51,Non-binary,Fashion,In-Store,72655,PhD,Entrepreneur
+4096,41,Male,Sports,In-Store,145599,Master's,Designer
+4097,57,Non-binary,Gaming,In-Store,118471,Master's,Entrepreneur
+4098,47,Non-binary,Gaming,In-Store,120296,Bachelor's,Engineer
+4099,19,Female,Fashion,In-Store,111077,PhD,Doctor
+4100,60,Female,Gaming,Hybrid,69836,High School,Engineer
+4101,31,Non-binary,Sports,In-Store,120824,Bachelor's,Entrepreneur
+4102,47,Female,Sports,Hybrid,135672,PhD,Entrepreneur
+4103,50,Male,Travel,In-Store,126903,Master's,Doctor
+4104,22,Female,Gaming,In-Store,78947,PhD,Teacher
+4105,30,Non-binary,Sports,Hybrid,64607,Bachelor's,Teacher
+4106,60,Female,Fashion,Hybrid,81352,PhD,Engineer
+4107,40,Female,Sports,Hybrid,45886,Bachelor's,Teacher
+4108,43,Male,Tech,In-Store,78275,High School,Designer
+4109,61,Non-binary,Travel,In-Store,148231,PhD,Teacher
+4110,45,Female,Fashion,Online Shopping,44878,Bachelor's,Engineer
+4111,30,Female,Travel,In-Store,31887,Bachelor's,Engineer
+4112,22,Male,Gaming,Hybrid,90256,Master's,Designer
+4113,19,Female,Sports,Hybrid,109880,PhD,Teacher
+4114,61,Male,Travel,Online Shopping,133452,Master's,Doctor
+4115,26,Female,Travel,Online Shopping,38795,PhD,Doctor
+4116,26,Non-binary,Sports,Online Shopping,117661,PhD,Teacher
+4117,62,Non-binary,Gaming,Online Shopping,106164,Master's,Engineer
+4118,63,Male,Gaming,Hybrid,39295,High School,Designer
+4119,28,Female,Travel,Online Shopping,109104,Bachelor's,Entrepreneur
+4120,37,Female,Gaming,Online Shopping,39114,Master's,Teacher
+4121,35,Male,Gaming,Online Shopping,61363,Bachelor's,Teacher
+4122,32,Male,Fashion,Online Shopping,123053,High School,Entrepreneur
+4123,49,Male,Gaming,Online Shopping,145759,Master's,Teacher
+4124,42,Non-binary,Fashion,Hybrid,50026,High School,Teacher
+4125,46,Female,Fashion,Hybrid,84951,Bachelor's,Teacher
+4126,18,Female,Sports,Hybrid,59511,PhD,Designer
+4127,52,Male,Sports,Online Shopping,112467,High School,Teacher
+4128,20,Male,Gaming,Online Shopping,129753,Bachelor's,Engineer
+4129,36,Male,Travel,Online Shopping,61032,PhD,Engineer
+4130,41,Non-binary,Sports,Hybrid,30506,PhD,Doctor
+4131,18,Female,Fashion,Online Shopping,114718,Bachelor's,Engineer
+4132,33,Non-binary,Travel,Hybrid,57324,Bachelor's,Doctor
+4133,22,Female,Fashion,Hybrid,66479,Bachelor's,Teacher
+4134,56,Non-binary,Travel,Hybrid,145355,Master's,Designer
+4135,26,Female,Gaming,Online Shopping,65809,PhD,Teacher
+4136,60,Male,Tech,In-Store,47589,Bachelor's,Designer
+4137,61,Male,Gaming,In-Store,51933,High School,Designer
+4138,31,Non-binary,Tech,In-Store,97104,High School,Doctor
+4139,51,Female,Fashion,Hybrid,87467,Bachelor's,Doctor
+4140,59,Non-binary,Travel,Online Shopping,121483,Master's,Engineer
+4141,23,Female,Travel,In-Store,76585,Bachelor's,Entrepreneur
+4142,55,Male,Tech,Online Shopping,67175,High School,Designer
+4143,43,Male,Gaming,Hybrid,87185,High School,Teacher
+4144,62,Non-binary,Sports,In-Store,115526,High School,Doctor
+4145,63,Female,Fashion,In-Store,86749,High School,Doctor
+4146,38,Female,Tech,In-Store,87953,Master's,Doctor
+4147,57,Non-binary,Fashion,Hybrid,137689,Bachelor's,Teacher
+4148,23,Male,Tech,Hybrid,100782,High School,Doctor
+4149,60,Non-binary,Gaming,Hybrid,93328,Master's,Doctor
+4150,25,Male,Gaming,In-Store,57452,Bachelor's,Doctor
+4151,20,Female,Travel,In-Store,94719,Master's,Entrepreneur
+4152,41,Non-binary,Fashion,In-Store,94017,PhD,Designer
+4153,37,Male,Tech,Online Shopping,56791,High School,Teacher
+4154,57,Female,Sports,Hybrid,149656,High School,Teacher
+4155,24,Non-binary,Sports,Hybrid,109423,High School,Entrepreneur
+4156,62,Female,Tech,Online Shopping,58372,PhD,Engineer
+4157,39,Female,Fashion,In-Store,110403,PhD,Engineer
+4158,60,Male,Sports,In-Store,101040,High School,Designer
+4159,52,Non-binary,Tech,Hybrid,137510,Bachelor's,Doctor
+4160,49,Female,Sports,Online Shopping,32103,Master's,Designer
+4161,57,Male,Gaming,Online Shopping,55967,PhD,Entrepreneur
+4162,55,Non-binary,Travel,In-Store,116430,PhD,Engineer
+4163,21,Male,Travel,Online Shopping,33532,Bachelor's,Entrepreneur
+4164,45,Female,Sports,Hybrid,142147,High School,Doctor
+4165,31,Female,Sports,Online Shopping,105693,High School,Engineer
+4166,51,Male,Sports,Hybrid,130177,High School,Designer
+4167,55,Male,Travel,Hybrid,144011,Master's,Designer
+4168,38,Non-binary,Tech,Hybrid,71468,High School,Engineer
+4169,55,Non-binary,Gaming,Online Shopping,40235,Master's,Doctor
+4170,56,Male,Gaming,Hybrid,127268,PhD,Teacher
+4171,32,Non-binary,Tech,In-Store,43279,Master's,Engineer
+4172,29,Male,Tech,Hybrid,34517,High School,Designer
+4173,51,Male,Tech,Hybrid,100275,High School,Teacher
+4174,29,Male,Travel,Online Shopping,129563,Bachelor's,Engineer
+4175,26,Female,Gaming,Online Shopping,86774,Bachelor's,Teacher
+4176,18,Non-binary,Tech,Hybrid,51730,PhD,Entrepreneur
+4177,43,Female,Sports,In-Store,63178,Bachelor's,Teacher
+4178,31,Non-binary,Sports,In-Store,139609,PhD,Engineer
+4179,48,Female,Fashion,In-Store,66568,Master's,Designer
+4180,21,Male,Travel,Online Shopping,35687,Master's,Entrepreneur
+4181,35,Non-binary,Tech,Online Shopping,143585,Master's,Doctor
+4182,26,Male,Gaming,Hybrid,78886,High School,Doctor
+4183,34,Male,Sports,Hybrid,149753,Master's,Teacher
+4184,30,Male,Gaming,In-Store,126556,Master's,Engineer
+4185,42,Female,Travel,Hybrid,121248,PhD,Designer
+4186,51,Male,Tech,In-Store,66529,Bachelor's,Teacher
+4187,29,Non-binary,Gaming,Online Shopping,31696,PhD,Doctor
+4188,23,Male,Sports,Online Shopping,86566,High School,Teacher
+4189,28,Male,Tech,Hybrid,45682,Master's,Engineer
+4190,40,Non-binary,Tech,Hybrid,86635,Bachelor's,Entrepreneur
+4191,22,Non-binary,Fashion,In-Store,89328,PhD,Engineer
+4192,60,Female,Gaming,Hybrid,113753,High School,Entrepreneur
+4193,58,Male,Sports,Online Shopping,134171,PhD,Engineer
+4194,42,Male,Sports,In-Store,146832,High School,Engineer
+4195,49,Male,Fashion,In-Store,75528,Master's,Entrepreneur
+4196,63,Non-binary,Gaming,Hybrid,80213,Master's,Engineer
+4197,45,Male,Travel,Online Shopping,41915,High School,Doctor
+4198,27,Non-binary,Tech,In-Store,107409,PhD,Engineer
+4199,21,Non-binary,Gaming,Hybrid,129784,Bachelor's,Designer
+4200,62,Female,Sports,Online Shopping,60416,Master's,Engineer
+4201,18,Female,Sports,Hybrid,135857,Bachelor's,Designer
+4202,27,Non-binary,Fashion,Online Shopping,89589,PhD,Teacher
+4203,26,Female,Sports,In-Store,59798,PhD,Entrepreneur
+4204,21,Male,Tech,In-Store,39879,High School,Engineer
+4205,33,Male,Fashion,Hybrid,55161,PhD,Teacher
+4206,46,Non-binary,Gaming,Hybrid,67527,High School,Teacher
+4207,24,Non-binary,Tech,In-Store,140355,PhD,Teacher
+4208,35,Non-binary,Gaming,In-Store,96464,Bachelor's,Engineer
+4209,53,Female,Tech,Online Shopping,34356,Master's,Doctor
+4210,34,Female,Travel,In-Store,92657,PhD,Doctor
+4211,44,Non-binary,Gaming,In-Store,114863,Master's,Teacher
+4212,57,Female,Fashion,In-Store,132280,High School,Doctor
+4213,64,Female,Fashion,Hybrid,93145,Master's,Designer
+4214,30,Female,Tech,Hybrid,117874,Bachelor's,Teacher
+4215,46,Male,Tech,Hybrid,111229,Master's,Doctor
+4216,41,Female,Gaming,In-Store,131301,Master's,Entrepreneur
+4217,41,Male,Gaming,Online Shopping,120997,PhD,Teacher
+4218,52,Male,Gaming,In-Store,72497,PhD,Designer
+4219,39,Male,Travel,Hybrid,89868,High School,Doctor
+4220,38,Female,Tech,Online Shopping,103216,PhD,Entrepreneur
+4221,18,Non-binary,Travel,Online Shopping,140364,PhD,Entrepreneur
+4222,47,Female,Travel,Hybrid,140735,PhD,Doctor
+4223,43,Female,Sports,In-Store,133058,High School,Doctor
+4224,55,Non-binary,Fashion,In-Store,109167,PhD,Designer
+4225,18,Female,Fashion,Online Shopping,34471,Bachelor's,Entrepreneur
+4226,22,Male,Travel,Online Shopping,145924,Master's,Designer
+4227,50,Non-binary,Travel,Online Shopping,82698,PhD,Entrepreneur
+4228,30,Female,Sports,In-Store,95561,Bachelor's,Designer
+4229,38,Male,Fashion,In-Store,51165,High School,Designer
+4230,39,Male,Sports,Hybrid,112924,Master's,Doctor
+4231,41,Non-binary,Fashion,Online Shopping,117023,Master's,Engineer
+4232,42,Male,Fashion,Online Shopping,35272,Bachelor's,Doctor
+4233,31,Male,Gaming,In-Store,90589,High School,Teacher
+4234,36,Non-binary,Travel,Hybrid,54885,Master's,Entrepreneur
+4235,39,Non-binary,Gaming,Hybrid,108205,Master's,Engineer
+4236,55,Female,Fashion,Online Shopping,38682,Master's,Designer
+4237,47,Non-binary,Tech,In-Store,130725,Master's,Doctor
+4238,35,Female,Travel,Online Shopping,128357,High School,Engineer
+4239,60,Male,Sports,Online Shopping,70289,Master's,Designer
+4240,33,Non-binary,Travel,In-Store,77419,Bachelor's,Teacher
+4241,55,Non-binary,Gaming,Hybrid,68420,PhD,Designer
+4242,21,Female,Sports,In-Store,99881,PhD,Engineer
+4243,52,Non-binary,Travel,Online Shopping,103016,PhD,Entrepreneur
+4244,45,Male,Sports,In-Store,132372,Bachelor's,Doctor
+4245,41,Female,Fashion,Online Shopping,93362,PhD,Designer
+4246,48,Male,Fashion,Hybrid,30989,Bachelor's,Doctor
+4247,43,Non-binary,Travel,In-Store,81082,High School,Teacher
+4248,22,Non-binary,Gaming,In-Store,90422,High School,Entrepreneur
+4249,61,Male,Fashion,Online Shopping,34836,PhD,Entrepreneur
+4250,57,Female,Tech,Online Shopping,134357,High School,Entrepreneur
+4251,48,Male,Tech,Hybrid,38019,High School,Engineer
+4252,26,Non-binary,Fashion,Online Shopping,82737,High School,Teacher
+4253,58,Male,Sports,In-Store,95821,High School,Doctor
+4254,55,Non-binary,Fashion,In-Store,145386,PhD,Engineer
+4255,50,Male,Travel,Online Shopping,112152,PhD,Doctor
+4256,55,Non-binary,Fashion,Hybrid,120399,Bachelor's,Doctor
+4257,37,Female,Gaming,Hybrid,67042,PhD,Entrepreneur
+4258,22,Non-binary,Fashion,Hybrid,149317,High School,Engineer
+4259,60,Male,Travel,In-Store,122662,Master's,Doctor
+4260,49,Non-binary,Fashion,Online Shopping,78323,Master's,Teacher
+4261,21,Non-binary,Sports,In-Store,73618,Master's,Doctor
+4262,53,Non-binary,Sports,Hybrid,110315,Master's,Designer
+4263,40,Non-binary,Gaming,Hybrid,149404,High School,Doctor
+4264,64,Non-binary,Fashion,In-Store,87756,Master's,Teacher
+4265,25,Female,Gaming,In-Store,54075,PhD,Doctor
+4266,25,Non-binary,Fashion,Hybrid,104137,Master's,Entrepreneur
+4267,48,Female,Tech,In-Store,137306,PhD,Entrepreneur
+4268,33,Male,Gaming,Hybrid,87063,High School,Teacher
+4269,40,Male,Gaming,Online Shopping,79816,PhD,Doctor
+4270,39,Female,Tech,Hybrid,121101,Bachelor's,Doctor
+4271,22,Female,Sports,In-Store,52839,Bachelor's,Designer
+4272,48,Female,Travel,In-Store,149880,Bachelor's,Designer
+4273,28,Non-binary,Travel,Hybrid,48604,PhD,Engineer
+4274,34,Female,Fashion,Online Shopping,135986,Master's,Engineer
+4275,43,Female,Travel,Online Shopping,105944,Bachelor's,Designer
+4276,31,Female,Gaming,Hybrid,37038,PhD,Doctor
+4277,27,Male,Sports,Online Shopping,55946,Master's,Designer
+4278,42,Male,Gaming,In-Store,113608,PhD,Entrepreneur
+4279,25,Female,Fashion,Hybrid,101132,Bachelor's,Teacher
+4280,61,Female,Gaming,In-Store,41125,High School,Engineer
+4281,38,Non-binary,Tech,In-Store,55106,Bachelor's,Designer
+4282,54,Female,Sports,In-Store,50171,Master's,Teacher
+4283,32,Male,Sports,Online Shopping,128578,Master's,Entrepreneur
+4284,48,Non-binary,Fashion,In-Store,88828,High School,Entrepreneur
+4285,18,Female,Tech,Hybrid,112236,Bachelor's,Doctor
+4286,46,Male,Fashion,Hybrid,49152,Master's,Entrepreneur
+4287,37,Female,Tech,Hybrid,71126,High School,Designer
+4288,53,Non-binary,Travel,Online Shopping,76260,High School,Doctor
+4289,36,Male,Fashion,Hybrid,67658,Bachelor's,Engineer
+4290,22,Male,Tech,Hybrid,111499,High School,Doctor
+4291,40,Male,Gaming,Online Shopping,107290,Master's,Teacher
+4292,19,Non-binary,Tech,Hybrid,52076,Master's,Designer
+4293,42,Male,Travel,In-Store,72131,Bachelor's,Doctor
+4294,43,Non-binary,Gaming,Hybrid,94438,High School,Entrepreneur
+4295,55,Non-binary,Travel,Hybrid,45661,Bachelor's,Engineer
+4296,52,Non-binary,Gaming,Hybrid,113511,Master's,Designer
+4297,58,Female,Gaming,Online Shopping,55138,PhD,Designer
+4298,57,Non-binary,Tech,Online Shopping,85927,PhD,Doctor
+4299,44,Non-binary,Fashion,In-Store,99098,High School,Designer
+4300,38,Non-binary,Travel,In-Store,107323,Bachelor's,Teacher
+4301,58,Female,Sports,Hybrid,126179,Master's,Teacher
+4302,41,Male,Gaming,In-Store,122226,Bachelor's,Engineer
+4303,45,Female,Gaming,In-Store,60086,Master's,Designer
+4304,31,Non-binary,Sports,In-Store,68982,Bachelor's,Entrepreneur
+4305,50,Female,Tech,In-Store,99917,Bachelor's,Teacher
+4306,57,Female,Sports,Online Shopping,121530,Bachelor's,Engineer
+4307,44,Non-binary,Gaming,Online Shopping,59077,PhD,Engineer
+4308,48,Male,Travel,In-Store,59720,Bachelor's,Engineer
+4309,30,Female,Fashion,In-Store,115377,Master's,Entrepreneur
+4310,34,Female,Sports,In-Store,92556,PhD,Teacher
+4311,54,Non-binary,Tech,Online Shopping,40877,Master's,Doctor
+4312,54,Male,Fashion,Hybrid,42498,Bachelor's,Entrepreneur
+4313,32,Non-binary,Fashion,Hybrid,91638,High School,Designer
+4314,38,Non-binary,Sports,Online Shopping,141005,PhD,Designer
+4315,53,Male,Travel,In-Store,47412,High School,Entrepreneur
+4316,46,Male,Sports,Hybrid,35447,PhD,Doctor
+4317,34,Non-binary,Gaming,Hybrid,32227,Master's,Doctor
+4318,64,Female,Gaming,Hybrid,125894,Bachelor's,Doctor
+4319,60,Male,Travel,Hybrid,99484,Master's,Teacher
+4320,61,Non-binary,Fashion,In-Store,36641,PhD,Teacher
+4321,56,Male,Tech,Online Shopping,100700,Master's,Doctor
+4322,45,Non-binary,Tech,Hybrid,75765,PhD,Teacher
+4323,38,Female,Gaming,Online Shopping,116214,PhD,Entrepreneur
+4324,34,Male,Gaming,Hybrid,130861,Master's,Engineer
+4325,22,Non-binary,Fashion,Online Shopping,108681,Bachelor's,Engineer
+4326,63,Male,Sports,Hybrid,128093,High School,Entrepreneur
+4327,23,Male,Travel,Hybrid,90454,Bachelor's,Engineer
+4328,21,Male,Travel,In-Store,111552,Bachelor's,Entrepreneur
+4329,35,Male,Tech,Hybrid,55404,High School,Doctor
+4330,49,Male,Sports,In-Store,57995,PhD,Engineer
+4331,20,Female,Travel,In-Store,138489,Master's,Entrepreneur
+4332,21,Male,Tech,Online Shopping,33720,Bachelor's,Teacher
+4333,57,Non-binary,Fashion,Hybrid,62441,PhD,Designer
+4334,23,Male,Sports,In-Store,35875,Master's,Engineer
+4335,34,Female,Sports,Online Shopping,134345,Bachelor's,Engineer
+4336,28,Female,Tech,Online Shopping,118673,PhD,Teacher
+4337,26,Non-binary,Tech,Online Shopping,91302,PhD,Entrepreneur
+4338,43,Non-binary,Sports,In-Store,106013,Bachelor's,Designer
+4339,47,Female,Gaming,Hybrid,71695,PhD,Engineer
+4340,35,Male,Fashion,Hybrid,102428,High School,Designer
+4341,22,Male,Travel,Hybrid,129393,High School,Entrepreneur
+4342,63,Female,Fashion,Online Shopping,107432,PhD,Entrepreneur
+4343,53,Female,Sports,Hybrid,105769,Master's,Engineer
+4344,49,Female,Travel,Online Shopping,56279,High School,Teacher
+4345,25,Female,Sports,Hybrid,39896,High School,Doctor
+4346,41,Female,Sports,Hybrid,141131,PhD,Engineer
+4347,54,Non-binary,Gaming,Hybrid,131284,Master's,Doctor
+4348,41,Male,Sports,Online Shopping,87130,Master's,Engineer
+4349,19,Non-binary,Sports,Online Shopping,51820,Bachelor's,Designer
+4350,22,Non-binary,Tech,Hybrid,123536,High School,Engineer
+4351,64,Male,Fashion,Hybrid,119030,Bachelor's,Entrepreneur
+4352,21,Female,Tech,Online Shopping,45760,PhD,Entrepreneur
+4353,51,Male,Fashion,Hybrid,86141,PhD,Doctor
+4354,29,Male,Sports,Online Shopping,68939,Master's,Entrepreneur
+4355,29,Female,Gaming,Hybrid,108571,High School,Entrepreneur
+4356,41,Male,Sports,Online Shopping,63546,Master's,Teacher
+4357,42,Non-binary,Fashion,Online Shopping,94571,High School,Engineer
+4358,39,Male,Fashion,Online Shopping,86711,Master's,Teacher
+4359,51,Non-binary,Sports,In-Store,141600,High School,Designer
+4360,31,Non-binary,Fashion,Online Shopping,141346,Bachelor's,Designer
+4361,18,Male,Travel,Hybrid,79456,High School,Teacher
+4362,36,Male,Travel,Hybrid,86986,Bachelor's,Entrepreneur
+4363,32,Female,Tech,In-Store,129160,High School,Doctor
+4364,50,Female,Tech,In-Store,147039,PhD,Engineer
+4365,62,Female,Fashion,Hybrid,55044,PhD,Engineer
+4366,40,Female,Gaming,Online Shopping,58099,Master's,Teacher
+4367,62,Female,Travel,Hybrid,74498,Master's,Designer
+4368,54,Female,Travel,In-Store,41229,PhD,Entrepreneur
+4369,36,Non-binary,Fashion,Online Shopping,113840,Master's,Entrepreneur
+4370,27,Female,Travel,In-Store,130189,Master's,Engineer
+4371,21,Non-binary,Gaming,Hybrid,72022,High School,Entrepreneur
+4372,26,Non-binary,Tech,In-Store,130093,High School,Designer
+4373,21,Non-binary,Gaming,Online Shopping,128269,High School,Entrepreneur
+4374,28,Female,Gaming,In-Store,88709,High School,Teacher
+4375,46,Non-binary,Tech,Online Shopping,32008,PhD,Teacher
+4376,64,Non-binary,Gaming,Hybrid,105005,PhD,Entrepreneur
+4377,32,Female,Fashion,Online Shopping,74869,Master's,Teacher
+4378,44,Male,Gaming,In-Store,109568,PhD,Designer
+4379,35,Male,Fashion,Online Shopping,67095,Master's,Teacher
+4380,34,Non-binary,Fashion,Online Shopping,55736,Master's,Engineer
+4381,24,Female,Fashion,Online Shopping,42929,High School,Designer
+4382,51,Male,Travel,Hybrid,128580,Master's,Engineer
+4383,33,Male,Tech,In-Store,48837,Bachelor's,Entrepreneur
+4384,29,Non-binary,Fashion,In-Store,52931,Bachelor's,Engineer
+4385,53,Female,Travel,Online Shopping,78477,Master's,Teacher
+4386,49,Non-binary,Travel,Hybrid,54199,Bachelor's,Doctor
+4387,48,Female,Travel,Online Shopping,127547,Master's,Teacher
+4388,61,Female,Travel,Hybrid,115569,Master's,Teacher
+4389,18,Male,Sports,Online Shopping,46320,High School,Teacher
+4390,45,Male,Fashion,In-Store,69663,Master's,Doctor
+4391,30,Non-binary,Gaming,In-Store,103517,PhD,Teacher
+4392,52,Non-binary,Sports,Hybrid,31261,High School,Teacher
+4393,47,Female,Tech,In-Store,47544,PhD,Designer
+4394,40,Female,Sports,Hybrid,146248,Bachelor's,Teacher
+4395,47,Male,Tech,Online Shopping,100399,PhD,Entrepreneur
+4396,26,Male,Tech,In-Store,110709,Bachelor's,Doctor
+4397,34,Non-binary,Tech,Hybrid,104212,Master's,Engineer
+4398,61,Non-binary,Sports,Hybrid,87904,Master's,Doctor
+4399,63,Female,Tech,Hybrid,40991,Bachelor's,Entrepreneur
+4400,35,Non-binary,Travel,Online Shopping,119369,High School,Engineer
+4401,26,Non-binary,Tech,Hybrid,91540,Bachelor's,Designer
+4402,44,Male,Tech,Online Shopping,133655,Bachelor's,Entrepreneur
+4403,50,Non-binary,Tech,Hybrid,45036,PhD,Entrepreneur
+4404,48,Male,Fashion,Online Shopping,76597,PhD,Doctor
+4405,27,Non-binary,Tech,In-Store,78172,Master's,Doctor
+4406,47,Male,Travel,In-Store,88029,Bachelor's,Doctor
+4407,45,Non-binary,Travel,Hybrid,142124,High School,Designer
+4408,44,Male,Sports,Online Shopping,131752,Bachelor's,Teacher
+4409,64,Female,Tech,In-Store,75283,Bachelor's,Teacher
+4410,54,Male,Gaming,In-Store,108643,Master's,Teacher
+4411,56,Non-binary,Fashion,Online Shopping,45075,PhD,Entrepreneur
+4412,38,Non-binary,Sports,In-Store,110949,PhD,Doctor
+4413,31,Non-binary,Tech,Online Shopping,36652,Master's,Doctor
+4414,36,Non-binary,Fashion,Online Shopping,105417,High School,Designer
+4415,62,Non-binary,Tech,Online Shopping,108784,Master's,Designer
+4416,59,Male,Fashion,In-Store,91775,Bachelor's,Designer
+4417,28,Male,Gaming,Hybrid,130736,High School,Entrepreneur
+4418,46,Non-binary,Tech,In-Store,84429,Master's,Designer
+4419,56,Female,Gaming,Online Shopping,68331,High School,Teacher
+4420,24,Male,Travel,Online Shopping,104416,PhD,Engineer
+4421,43,Female,Tech,In-Store,149454,Bachelor's,Teacher
+4422,32,Male,Sports,Online Shopping,30502,Bachelor's,Engineer
+4423,43,Male,Gaming,Hybrid,90896,Bachelor's,Engineer
+4424,52,Male,Tech,Online Shopping,132894,PhD,Engineer
+4425,32,Male,Tech,In-Store,68648,PhD,Entrepreneur
+4426,26,Female,Gaming,In-Store,78929,High School,Entrepreneur
+4427,21,Female,Travel,In-Store,126139,High School,Entrepreneur
+4428,24,Female,Travel,Hybrid,47354,Master's,Doctor
+4429,20,Female,Tech,In-Store,64772,PhD,Engineer
+4430,34,Male,Gaming,Online Shopping,57450,Bachelor's,Designer
+4431,36,Non-binary,Gaming,Online Shopping,123996,Bachelor's,Teacher
+4432,34,Male,Sports,In-Store,53553,High School,Designer
+4433,57,Male,Gaming,In-Store,58942,Master's,Designer
+4434,46,Non-binary,Sports,In-Store,142673,High School,Doctor
+4435,45,Female,Gaming,Online Shopping,71061,Bachelor's,Entrepreneur
+4436,64,Female,Gaming,Hybrid,79405,Master's,Designer
+4437,49,Male,Tech,Hybrid,128976,Bachelor's,Teacher
+4438,38,Female,Travel,In-Store,56849,Bachelor's,Engineer
+4439,48,Male,Fashion,Online Shopping,83584,Bachelor's,Designer
+4440,18,Female,Travel,In-Store,57267,Master's,Teacher
+4441,39,Female,Tech,In-Store,81667,Bachelor's,Engineer
+4442,47,Male,Sports,Online Shopping,65129,PhD,Designer
+4443,64,Male,Tech,In-Store,58708,Bachelor's,Doctor
+4444,62,Female,Tech,In-Store,30026,High School,Doctor
+4445,55,Female,Fashion,In-Store,104531,Master's,Teacher
+4446,51,Male,Fashion,Hybrid,130811,High School,Doctor
+4447,52,Male,Travel,Hybrid,130242,Bachelor's,Designer
+4448,55,Male,Fashion,Hybrid,60082,High School,Engineer
+4449,41,Female,Tech,In-Store,74822,Master's,Engineer
+4450,34,Male,Gaming,In-Store,51880,Bachelor's,Entrepreneur
+4451,49,Male,Gaming,Hybrid,136758,Master's,Engineer
+4452,31,Male,Tech,Hybrid,85203,Master's,Doctor
+4453,29,Male,Fashion,In-Store,49077,Bachelor's,Teacher
+4454,60,Female,Gaming,Hybrid,111870,Bachelor's,Doctor
+4455,24,Female,Sports,In-Store,88112,PhD,Engineer
+4456,53,Male,Travel,Hybrid,101682,Master's,Doctor
+4457,30,Non-binary,Sports,In-Store,61216,Bachelor's,Entrepreneur
+4458,62,Female,Fashion,Hybrid,127035,Bachelor's,Designer
+4459,56,Male,Sports,In-Store,57403,Master's,Doctor
+4460,26,Non-binary,Tech,Online Shopping,55054,PhD,Engineer
+4461,31,Non-binary,Tech,Online Shopping,127124,Master's,Doctor
+4462,37,Non-binary,Tech,In-Store,43980,High School,Designer
+4463,34,Female,Sports,Hybrid,106835,PhD,Designer
+4464,26,Female,Tech,Online Shopping,142549,High School,Engineer
+4465,23,Male,Fashion,In-Store,102098,Master's,Teacher
+4466,26,Male,Sports,In-Store,103062,High School,Engineer
+4467,44,Non-binary,Fashion,Hybrid,60966,Bachelor's,Engineer
+4468,23,Non-binary,Gaming,In-Store,64021,PhD,Engineer
+4469,39,Female,Sports,Hybrid,104029,PhD,Teacher
+4470,31,Male,Gaming,Online Shopping,84552,PhD,Doctor
+4471,43,Female,Sports,Hybrid,100109,PhD,Entrepreneur
+4472,62,Non-binary,Sports,In-Store,136600,Bachelor's,Doctor
+4473,49,Non-binary,Gaming,Hybrid,34411,High School,Entrepreneur
+4474,39,Male,Travel,In-Store,126217,High School,Designer
+4475,31,Male,Travel,Hybrid,54220,PhD,Engineer
+4476,56,Female,Sports,Hybrid,52551,PhD,Entrepreneur
+4477,36,Non-binary,Travel,Hybrid,39099,PhD,Engineer
+4478,44,Male,Travel,In-Store,76964,Master's,Doctor
+4479,27,Non-binary,Travel,Hybrid,139550,Master's,Entrepreneur
+4480,50,Male,Fashion,Hybrid,85128,Master's,Teacher
+4481,59,Non-binary,Travel,Hybrid,76787,PhD,Designer
+4482,50,Non-binary,Fashion,In-Store,105921,PhD,Teacher
+4483,62,Male,Gaming,In-Store,115762,High School,Designer
+4484,40,Male,Gaming,Hybrid,118389,High School,Doctor
+4485,34,Male,Tech,Online Shopping,74006,High School,Doctor
+4486,44,Female,Fashion,In-Store,36390,High School,Designer
+4487,49,Female,Sports,In-Store,66213,Master's,Teacher
+4488,29,Non-binary,Travel,Online Shopping,99660,Bachelor's,Teacher
+4489,32,Female,Tech,Hybrid,107672,High School,Designer
+4490,62,Non-binary,Travel,Hybrid,84743,Master's,Entrepreneur
+4491,35,Non-binary,Sports,In-Store,39673,High School,Teacher
+4492,58,Non-binary,Travel,Online Shopping,105569,PhD,Designer
+4493,45,Female,Travel,Hybrid,30257,Bachelor's,Entrepreneur
+4494,63,Female,Tech,In-Store,93789,Master's,Teacher
+4495,18,Male,Tech,In-Store,113840,Master's,Doctor
+4496,38,Non-binary,Fashion,In-Store,57575,High School,Entrepreneur
+4497,28,Male,Travel,Hybrid,66063,High School,Doctor
+4498,28,Male,Tech,Online Shopping,37161,Master's,Teacher
+4499,61,Non-binary,Tech,Online Shopping,147910,Master's,Entrepreneur
+4500,45,Non-binary,Tech,Hybrid,31648,Master's,Designer

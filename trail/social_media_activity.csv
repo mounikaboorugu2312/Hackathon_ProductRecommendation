@@ -1,0 +1,501 @@
+Customer_Id,Post_Id,Platform,Content,Timestamp,Sentiment_Score,Intent
+4001,8856,Facebook,Sample post content related to Financial Management Concern.,02/06/25 01:00,-0.28,Audience Engagement
+4002,7032,Instagram,Sample post content related to Financial Management Concern.,03/14/25 02:00,0.15,BNPL Usage
+4003,4122,Instagram,Sample post content related to Risk Mitigation.,01/26/25 14:00,-0.61,Generational Gap Complaint
+4004,3219,Facebook,Sample post content related to Shopping Interest.,01/04/25 06:00,0.4,Cost & Financing Concern
+4005,3332,Reddit,Sample post content related to Budget Concern.,01/12/25 08:00,0.85,Wealth Management
+4006,1534,Facebook,Sample post content related to Budget Concern.,01/18/25 20:00,-0.62,Travel and work Setup
+4007,3044,Twitter,Sample post content related to Fashion Interest.,02/20/25 15:00,-0.14,Bank Fee Complaint
+4008,3146,Twitter,Sample post content related to Savings Planning.,01/06/25 04:00,-0.86,Generational Gap Complaint
+4009,1973,Instagram,Sample post content related to Tech Enthusiasm.,01/24/25 10:00,0.25,Budget Concern
+4010,2578,Facebook,Sample post content related to Financial Management Concern.,01/23/25 22:00,-0.72,Audience Engagement
+4011,3513,Twitter,Sample post content related to BNPL Usage.,02/12/25 23:00,-0.64,Cost & Financing Concern
+4012,6883,Instagram,Sample post content related to Supply Chain Optimization.,02/06/25 17:00,0.14,Wealth Management
+4013,1684,Facebook,Sample post content related to Savings Planning.,01/22/25 13:00,0.99,BNPL Usage
+4014,3888,Facebook,Sample post content related to Cost & Financing Concern.,02/24/25 07:00,-0.4,Sales and Expansion
+4015,3154,Twitter,Sample post content related to Budget Concern.,02/15/25 02:00,0.67,BNPL Usage
+4016,2828,Reddit,Sample post content related to BNPL Usage.,01/12/25 08:00,0.72,Travel and work Setup
+4017,9634,Facebook,Sample post content related to Sales and Expansion.,03/08/25 15:00,0.89,Cost & Financing Concern
+4018,1648,Instagram,Sample post content related to BNPL Usage.,01/18/25 12:00,-0.67,Risk Mitigation
+4019,5503,Facebook,Sample post content related to Wealth Management.,01/28/25 05:00,-0.59,Shopping Interest
+4020,7032,Twitter,Sample post content related to Tech Enthusiasm.,01/11/25 02:00,0.71,Tech Enthusiasm
+4021,5768,Facebook,Sample post content related to Tech Enthusiasm.,03/01/25 15:00,0.52,Shopping Interest
+4022,8504,Reddit,Sample post content related to Budget Concern.,01/31/25 09:00,-0.26,Subscription Change
+4023,8339,Instagram,Sample post content related to Sponsorship Load Interest.,02/19/25 15:00,-0.32,Fashion Interest
+4024,3137,Reddit,Sample post content related to Risk Mitigation.,03/09/25 06:00,-0.31,Sales and Expansion
+4025,3168,Twitter,Sample post content related to Risk Mitigation.,02/13/25 09:00,0.34,Parenting Advice
+4026,1681,Twitter,Sample post content related to Budget Concern.,03/06/25 04:00,-0.72,BNPL Usage
+4027,7407,Instagram,Sample post content related to Travel and work Setup.,02/26/25 09:00,-0.07,Audience Engagement
+4028,1494,Facebook,Sample post content related to Travel and work Setup.,01/19/25 09:00,-0.35,Travel and work Setup
+4029,7307,Facebook,Sample post content related to Travel and work Setup.,02/28/25 14:00,0.81,Shopping Interest
+4030,7578,Facebook,Sample post content related to Risk Mitigation.,02/23/25 09:00,0.41,Savings Planning
+4031,3989,Reddit,Sample post content related to Audience Engagement.,01/30/25 22:00,-0.68,Tech Enthusiasm
+4032,7081,Facebook,Sample post content related to Subscription Change.,03/11/25 15:00,0.77,Parenting Advice
+4033,3997,Twitter,Sample post content related to Tech Innovation Interest.,03/24/25 18:00,-0.18,Sponsorship Load Interest
+4034,5001,Instagram,Sample post content related to Generational Gap Complaint.,03/15/25 20:00,-0.63,BNPL Usage
+4035,8850,Instagram,Sample post content related to Savings Planning.,02/24/25 23:00,-0.87,Supply Chain Optimization
+4036,1725,Reddit,Sample post content related to Generational Gap Complaint.,03/03/25 00:00,0.77,Tech Enthusiasm
+4037,6009,Instagram,Sample post content related to Travel and work Setup.,02/28/25 16:00,-0.75,Shopping Interest
+4038,8725,Facebook,Sample post content related to Risk Mitigation.,02/17/25 01:00,-0.97,Bank Fee Complaint
+4039,1313,Reddit,Sample post content related to Subscription Change.,01/08/25 21:00,0.96,Financial Management Concern
+4040,7943,Instagram,Sample post content related to Financial Management Concern.,03/29/25 02:00,-0.04,BNPL Usage
+4041,2630,Instagram,Sample post content related to Financial Management Concern.,03/05/25 18:00,0.1,Cost & Financing Concern
+4042,6817,Twitter,Sample post content related to Sales and Expansion.,04/01/25 05:00,-0.37,Savings Planning
+4043,9988,Reddit,Sample post content related to Fashion Interest.,01/30/25 13:00,-0.91,Sales and Expansion
+4044,4837,Reddit,Sample post content related to Generational Gap Complaint.,01/25/25 11:00,0.35,Shopping Interest
+4045,1385,Reddit,Sample post content related to Travel and work Setup.,03/09/25 16:00,-0.15,Shopping Interest
+4046,4765,Instagram,Sample post content related to Bank Fee Complaint.,01/28/25 07:00,-0.84,Financial Management Concern
+4047,7305,Reddit,Sample post content related to Supply Chain Optimization.,02/01/25 14:00,0.4,Budget Concern
+4048,8420,Reddit,Sample post content related to Tech Enthusiasm.,02/17/25 13:00,0.98,Supply Chain Optimization
+4049,6667,Instagram,Sample post content related to Parenting Advice.,03/15/25 01:00,0.98,Bank Fee Complaint
+4050,9576,Twitter,Sample post content related to Financial Management Concern.,01/24/25 12:00,-0.8,Cost & Financing Concern
+4051,2419,Twitter,Sample post content related to Parenting Advice.,02/28/25 22:00,-0.77,Supply Chain Optimization
+4052,6492,Twitter,Sample post content related to BNPL Usage.,01/25/25 22:00,-0.32,Supply Chain Optimization
+4053,8398,Twitter,Sample post content related to Audience Engagement.,02/07/25 10:00,-0.43,Tech Innovation Interest
+4054,8246,Facebook,Sample post content related to Generational Gap Complaint.,02/07/25 10:00,-0.58,Parenting Advice
+4055,8589,Reddit,Sample post content related to Tech Innovation Interest.,03/28/25 00:00,0.32,Generational Gap Complaint
+4056,9405,Instagram,Sample post content related to Tech Enthusiasm.,04/01/25 21:00,0.29,Supply Chain Optimization
+4057,1671,Instagram,Sample post content related to Audience Engagement.,01/10/25 11:00,0.4,Savings Planning
+4058,7032,Facebook,Sample post content related to Supply Chain Optimization.,01/22/25 17:00,0.58,Sales and Expansion
+4059,7070,Instagram,Sample post content related to Tech Enthusiasm.,01/07/25 06:00,-0.98,Tech Innovation Interest
+4060,8689,Twitter,Sample post content related to BNPL Usage.,01/08/25 18:00,0.38,Bank Fee Complaint
+4061,7350,Facebook,Sample post content related to Shopping Interest.,03/09/25 18:00,0.56,Supply Chain Optimization
+4062,9887,Reddit,Sample post content related to Savings Planning.,01/22/25 08:00,-0.27,Generational Gap Complaint
+4063,5727,Twitter,Sample post content related to Audience Engagement.,03/25/25 16:00,-0.44,Tech Innovation Interest
+4064,1864,Twitter,Sample post content related to Parenting Advice.,02/16/25 17:00,-0.76,Savings Planning
+4065,5618,Instagram,Sample post content related to Sales and Expansion.,03/05/25 08:00,0.9,Risk Mitigation
+4066,1382,Twitter,Sample post content related to Savings Planning.,03/10/25 08:00,-0.4,Sponsorship Load Interest
+4067,6823,Reddit,Sample post content related to Parenting Advice.,01/08/25 16:00,-0.08,Generational Gap Complaint
+4068,2567,Instagram,Sample post content related to Sales and Expansion.,01/15/25 21:00,0.35,Sponsorship Load Interest
+4069,5771,Facebook,Sample post content related to Sponsorship Load Interest.,03/08/25 12:00,-0.29,Tech Innovation Interest
+4070,9373,Facebook,Sample post content related to Wealth Management.,03/21/25 16:00,0.18,Risk Mitigation
+4071,6387,Facebook,Sample post content related to Savings Planning.,02/07/25 09:00,0.33,Generational Gap Complaint
+4072,7167,Reddit,Sample post content related to Sales and Expansion.,03/06/25 00:00,-0.51,Bank Fee Complaint
+4073,5763,Twitter,Sample post content related to Risk Mitigation.,02/23/25 06:00,-0.09,Financial Management Concern
+4074,9794,Facebook,Sample post content related to Travel and work Setup.,03/14/25 18:00,-0.26,Bank Fee Complaint
+4075,9139,Reddit,Sample post content related to Parenting Advice.,03/05/25 06:00,0.99,Sponsorship Load Interest
+4076,9551,Instagram,Sample post content related to Generational Gap Complaint.,03/14/25 18:00,-0.34,Subscription Change
+4077,8825,Twitter,Sample post content related to Audience Engagement.,02/02/25 20:00,0.14,Savings Planning
+4078,4469,Instagram,Sample post content related to Budget Concern.,01/29/25 06:00,-0.77,Parenting Advice
+4079,6464,Instagram,Sample post content related to Tech Innovation Interest.,03/08/25 02:00,-0.64,Parenting Advice
+4080,7713,Facebook,Sample post content related to Fashion Interest.,03/29/25 05:00,0.39,Generational Gap Complaint
+4081,3158,Twitter,Sample post content related to Bank Fee Complaint.,01/28/25 07:00,0.22,Bank Fee Complaint
+4082,9129,Instagram,Sample post content related to Bank Fee Complaint.,03/06/25 23:00,-0.38,Wealth Management
+4083,4791,Instagram,Sample post content related to Sales and Expansion.,02/23/25 12:00,-0.88,Tech Innovation Interest
+4084,6735,Twitter,Sample post content related to Sales and Expansion.,02/21/25 03:00,0.48,Parenting Advice
+4085,7371,Instagram,Sample post content related to Fashion Interest.,02/09/25 09:00,0.1,Tech Innovation Interest
+4086,3115,Twitter,Sample post content related to Supply Chain Optimization.,02/11/25 01:00,-0.01,Fashion Interest
+4087,6599,Instagram,Sample post content related to Sponsorship Load Interest.,02/25/25 03:00,0.53,Supply Chain Optimization
+4088,9603,Reddit,Sample post content related to Financial Management Concern.,01/25/25 23:00,0.11,Financial Management Concern
+4089,3313,Facebook,Sample post content related to Risk Mitigation.,03/10/25 08:00,0.48,Cost & Financing Concern
+4090,4857,Reddit,Sample post content related to Budget Concern.,03/31/25 18:00,0.75,BNPL Usage
+4091,2556,Twitter,Sample post content related to Fashion Interest.,03/01/25 20:00,-0.07,Supply Chain Optimization
+4092,3352,Reddit,Sample post content related to Cost & Financing Concern.,03/14/25 21:00,-0.02,Cost & Financing Concern
+4093,1489,Reddit,Sample post content related to Financial Management Concern.,03/29/25 16:00,0.25,BNPL Usage
+4094,9722,Twitter,Sample post content related to Generational Gap Complaint.,01/11/25 22:00,0.86,Audience Engagement
+4095,6960,Facebook,Sample post content related to Subscription Change.,01/04/25 12:00,0.17,Sponsorship Load Interest
+4096,2991,Twitter,Sample post content related to Fashion Interest.,02/19/25 10:00,-0.57,Shopping Interest
+4097,7320,Twitter,Sample post content related to BNPL Usage.,02/05/25 22:00,0.95,Wealth Management
+4098,2290,Reddit,Sample post content related to Bank Fee Complaint.,01/22/25 18:00,0.61,Shopping Interest
+4099,9783,Reddit,Sample post content related to Sponsorship Load Interest.,02/27/25 04:00,0.37,Travel and work Setup
+4100,1326,Facebook,Sample post content related to Sales and Expansion.,01/30/25 17:00,-0.5,Tech Enthusiasm
+4101,7264,Instagram,Sample post content related to Tech Innovation Interest.,03/05/25 13:00,-0.06,Audience Engagement
+4102,7834,Reddit,Sample post content related to Budget Concern.,02/01/25 23:00,-0.65,Fashion Interest
+4103,3886,Reddit,Sample post content related to Supply Chain Optimization.,03/09/25 15:00,-0.23,Subscription Change
+4104,1302,Facebook,Sample post content related to Financial Management Concern.,01/09/25 16:00,0.96,Audience Engagement
+4105,7301,Facebook,Sample post content related to Tech Innovation Interest.,02/13/25 15:00,0.9,Tech Innovation Interest
+4106,6057,Twitter,Sample post content related to Travel and work Setup.,03/07/25 03:00,0.57,Fashion Interest
+4107,6000,Reddit,Sample post content related to Tech Innovation Interest.,03/16/25 16:00,0.58,Tech Enthusiasm
+4108,9832,Twitter,Sample post content related to Tech Enthusiasm.,01/21/25 15:00,-0.33,Cost & Financing Concern
+4109,8421,Facebook,Sample post content related to Wealth Management.,03/22/25 05:00,0.42,Shopping Interest
+4110,8097,Reddit,Sample post content related to BNPL Usage.,01/20/25 15:00,0.09,Supply Chain Optimization
+4111,3665,Instagram,Sample post content related to Risk Mitigation.,03/06/25 17:00,-0.33,BNPL Usage
+4112,1216,Instagram,Sample post content related to Tech Enthusiasm.,03/06/25 09:00,-0.54,Subscription Change
+4113,5332,Twitter,Sample post content related to Bank Fee Complaint.,02/28/25 04:00,-0.56,Subscription Change
+4114,2394,Facebook,Sample post content related to Sales and Expansion.,01/13/25 06:00,0.46,Savings Planning
+4115,8975,Facebook,Sample post content related to Sales and Expansion.,01/09/25 18:00,0.21,Sponsorship Load Interest
+4116,5270,Instagram,Sample post content related to Savings Planning.,01/07/25 11:00,-0.41,Savings Planning
+4117,8810,Twitter,Sample post content related to Audience Engagement.,01/09/25 00:00,0.91,Bank Fee Complaint
+4118,6429,Instagram,Sample post content related to Supply Chain Optimization.,01/14/25 01:00,-0.18,Tech Enthusiasm
+4119,4654,Instagram,Sample post content related to Subscription Change.,01/26/25 15:00,0.55,Sponsorship Load Interest
+4120,4334,Twitter,Sample post content related to Subscription Change.,03/28/25 00:00,-0.54,Savings Planning
+4121,4505,Twitter,Sample post content related to Financial Management Concern.,03/14/25 10:00,-0.14,Sales and Expansion
+4122,4350,Reddit,Sample post content related to Savings Planning.,03/03/25 13:00,0.61,Sales and Expansion
+4123,5785,Instagram,Sample post content related to Fashion Interest.,01/29/25 22:00,0.79,Risk Mitigation
+4124,1793,Instagram,Sample post content related to Budget Concern.,02/13/25 16:00,0.35,Sales and Expansion
+4125,5601,Instagram,Sample post content related to Sponsorship Load Interest.,01/11/25 14:00,0.58,Tech Innovation Interest
+4126,3672,Facebook,Sample post content related to Travel and work Setup.,03/21/25 14:00,-0.18,Supply Chain Optimization
+4127,4751,Twitter,Sample post content related to Subscription Change.,02/25/25 13:00,-0.28,Cost & Financing Concern
+4128,2336,Facebook,Sample post content related to Generational Gap Complaint.,02/01/25 05:00,-0.56,Supply Chain Optimization
+4129,2703,Reddit,Sample post content related to Sponsorship Load Interest.,01/18/25 19:00,0.08,BNPL Usage
+4130,4173,Twitter,Sample post content related to Risk Mitigation.,02/09/25 09:00,0.53,Tech Enthusiasm
+4131,7372,Instagram,Sample post content related to Bank Fee Complaint.,03/01/25 09:00,0.71,Savings Planning
+4132,9306,Facebook,Sample post content related to Savings Planning.,02/06/25 12:00,0.28,Financial Management Concern
+4133,9183,Twitter,Sample post content related to Shopping Interest.,01/10/25 15:00,-0.05,Audience Engagement
+4134,6914,Facebook,Sample post content related to Generational Gap Complaint.,02/04/25 03:00,0.21,Budget Concern
+4135,7075,Facebook,Sample post content related to Financial Management Concern.,02/12/25 21:00,0.2,Wealth Management
+4136,6920,Reddit,Sample post content related to Travel and work Setup.,03/04/25 03:00,-0.82,Cost & Financing Concern
+4137,7424,Instagram,Sample post content related to Budget Concern.,03/03/25 07:00,0.59,Savings Planning
+4138,5223,Twitter,Sample post content related to Shopping Interest.,01/10/25 22:00,-0.59,Sponsorship Load Interest
+4139,3984,Twitter,Sample post content related to BNPL Usage.,03/05/25 19:00,0.76,Generational Gap Complaint
+4140,5112,Instagram,Sample post content related to Savings Planning.,01/26/25 23:00,-0.64,Supply Chain Optimization
+4141,4807,Twitter,Sample post content related to Bank Fee Complaint.,02/21/25 22:00,-0.06,Bank Fee Complaint
+4142,8321,Reddit,Sample post content related to Audience Engagement.,01/22/25 19:00,0.85,Tech Innovation Interest
+4143,4464,Twitter,Sample post content related to Wealth Management.,01/27/25 10:00,-0.04,Generational Gap Complaint
+4144,9235,Instagram,Sample post content related to Sales and Expansion.,03/22/25 01:00,-0.09,Savings Planning
+4145,9034,Facebook,Sample post content related to Subscription Change.,01/01/25 08:00,0.28,Financial Management Concern
+4146,2216,Facebook,Sample post content related to Subscription Change.,03/20/25 03:00,0.88,BNPL Usage
+4147,7381,Instagram,Sample post content related to Budget Concern.,01/16/25 06:00,0.04,Parenting Advice
+4148,2482,Reddit,Sample post content related to Tech Enthusiasm.,01/05/25 00:00,-0.82,BNPL Usage
+4149,8296,Instagram,Sample post content related to BNPL Usage.,01/10/25 07:00,0.26,Wealth Management
+4150,2095,Twitter,Sample post content related to Sales and Expansion.,03/17/25 09:00,-0.13,Budget Concern
+4151,3666,Facebook,Sample post content related to Bank Fee Complaint.,03/31/25 15:00,-0.45,Fashion Interest
+4152,9696,Facebook,Sample post content related to Sales and Expansion.,01/01/25 10:00,0.41,Travel and work Setup
+4153,2963,Reddit,Sample post content related to Sales and Expansion.,03/28/25 06:00,0.25,Risk Mitigation
+4154,8945,Reddit,Sample post content related to Sales and Expansion.,01/16/25 21:00,0.92,Supply Chain Optimization
+4155,2216,Reddit,Sample post content related to Shopping Interest.,03/30/25 06:00,0.54,Generational Gap Complaint
+4156,7878,Twitter,Sample post content related to Parenting Advice.,01/16/25 04:00,0.98,Savings Planning
+4157,9824,Instagram,Sample post content related to Generational Gap Complaint.,04/01/25 08:00,-0.04,Sponsorship Load Interest
+4158,2171,Reddit,Sample post content related to Bank Fee Complaint.,02/24/25 15:00,0.87,Sales and Expansion
+4159,3941,Facebook,Sample post content related to Audience Engagement.,01/29/25 02:00,0.28,Cost & Financing Concern
+4160,6109,Twitter,Sample post content related to Subscription Change.,02/14/25 02:00,-0.57,Subscription Change
+4161,8669,Instagram,Sample post content related to Sponsorship Load Interest.,01/20/25 00:00,0.88,Subscription Change
+4162,8564,Instagram,Sample post content related to Generational Gap Complaint.,02/15/25 15:00,0.96,Savings Planning
+4163,5307,Instagram,Sample post content related to Budget Concern.,01/04/25 12:00,-0.17,Bank Fee Complaint
+4164,1763,Facebook,Sample post content related to Travel and work Setup.,02/03/25 13:00,-0.57,Tech Innovation Interest
+4165,1274,Facebook,Sample post content related to Supply Chain Optimization.,01/28/25 09:00,-0.32,Cost & Financing Concern
+4166,8282,Facebook,Sample post content related to BNPL Usage.,01/29/25 00:00,0.23,Tech Enthusiasm
+4167,8102,Instagram,Sample post content related to Sales and Expansion.,03/22/25 02:00,0.89,Supply Chain Optimization
+4168,1932,Instagram,Sample post content related to Financial Management Concern.,03/26/25 02:00,0.77,Fashion Interest
+4169,3953,Reddit,Sample post content related to Savings Planning.,01/03/25 14:00,0.67,Savings Planning
+4170,3277,Reddit,Sample post content related to BNPL Usage.,03/28/25 14:00,0.2,Sponsorship Load Interest
+4171,3090,Twitter,Sample post content related to Travel and work Setup.,01/06/25 01:00,-0.6,Sponsorship Load Interest
+4172,6969,Reddit,Sample post content related to Shopping Interest.,01/04/25 21:00,0.63,Cost & Financing Concern
+4173,1676,Reddit,Sample post content related to Sponsorship Load Interest.,01/27/25 15:00,-0.23,BNPL Usage
+4174,3817,Twitter,Sample post content related to Financial Management Concern.,01/25/25 03:00,-0.0,Sponsorship Load Interest
+4175,8892,Facebook,Sample post content related to Sales and Expansion.,02/28/25 21:00,-0.84,Shopping Interest
+4176,2391,Instagram,Sample post content related to Shopping Interest.,01/22/25 18:00,0.3,Financial Management Concern
+4177,3629,Facebook,Sample post content related to Sponsorship Load Interest.,01/03/25 07:00,0.24,Shopping Interest
+4178,4286,Facebook,Sample post content related to Tech Enthusiasm.,03/17/25 06:00,-0.33,Fashion Interest
+4179,1534,Twitter,Sample post content related to Risk Mitigation.,03/16/25 15:00,-0.76,BNPL Usage
+4180,1467,Reddit,Sample post content related to Bank Fee Complaint.,03/23/25 16:00,-0.71,Tech Innovation Interest
+4181,4599,Facebook,Sample post content related to Travel and work Setup.,01/30/25 18:00,0.35,Bank Fee Complaint
+4182,5287,Reddit,Sample post content related to Cost & Financing Concern.,02/04/25 15:00,0.6,Sales and Expansion
+4183,6235,Reddit,Sample post content related to Subscription Change.,02/27/25 19:00,0.73,Savings Planning
+4184,1154,Twitter,Sample post content related to Risk Mitigation.,02/16/25 05:00,0.73,Savings Planning
+4185,8881,Twitter,Sample post content related to Tech Enthusiasm.,01/07/25 13:00,-0.48,Generational Gap Complaint
+4186,4724,Twitter,Sample post content related to Shopping Interest.,03/07/25 16:00,0.98,Shopping Interest
+4187,1838,Reddit,Sample post content related to Generational Gap Complaint.,03/21/25 06:00,0.34,Sponsorship Load Interest
+4188,7081,Instagram,Sample post content related to Fashion Interest.,03/06/25 23:00,0.63,Audience Engagement
+4189,2874,Instagram,Sample post content related to Wealth Management.,04/02/25 03:00,0.93,Cost & Financing Concern
+4190,5280,Instagram,Sample post content related to Wealth Management.,03/20/25 06:00,0.22,Generational Gap Complaint
+4191,3064,Instagram,Sample post content related to Budget Concern.,02/09/25 15:00,0.37,Audience Engagement
+4192,7755,Reddit,Sample post content related to Fashion Interest.,02/12/25 10:00,0.34,Fashion Interest
+4193,9013,Twitter,Sample post content related to Savings Planning.,01/21/25 14:00,0.18,Travel and work Setup
+4194,6292,Facebook,Sample post content related to Cost & Financing Concern.,03/18/25 09:00,0.58,Budget Concern
+4195,9025,Instagram,Sample post content related to Audience Engagement.,02/13/25 23:00,0.66,Subscription Change
+4196,8699,Reddit,Sample post content related to Wealth Management.,02/20/25 16:00,0.46,Tech Innovation Interest
+4197,4319,Reddit,Sample post content related to Parenting Advice.,02/14/25 16:00,0.89,Audience Engagement
+4198,6566,Twitter,Sample post content related to Sales and Expansion.,02/12/25 11:00,-0.6,Audience Engagement
+4199,6092,Twitter,Sample post content related to Parenting Advice.,01/02/25 02:00,-0.93,Tech Enthusiasm
+4200,2879,Instagram,Sample post content related to Sales and Expansion.,02/23/25 19:00,0.74,Financial Management Concern
+4201,4609,Instagram,Sample post content related to Parenting Advice.,02/24/25 11:00,-0.81,Bank Fee Complaint
+4202,5807,Twitter,Sample post content related to Cost & Financing Concern.,01/27/25 03:00,0.3,Tech Innovation Interest
+4203,5491,Facebook,Sample post content related to Savings Planning.,01/18/25 19:00,0.22,Tech Innovation Interest
+4204,8497,Twitter,Sample post content related to Parenting Advice.,01/05/25 21:00,-0.06,Sponsorship Load Interest
+4205,6498,Reddit,Sample post content related to Travel and work Setup.,01/08/25 14:00,-0.78,Audience Engagement
+4206,9408,Instagram,Sample post content related to Tech Innovation Interest.,01/07/25 18:00,-0.02,BNPL Usage
+4207,9188,Twitter,Sample post content related to Bank Fee Complaint.,01/08/25 18:00,0.05,Budget Concern
+4208,9161,Twitter,Sample post content related to Tech Enthusiasm.,01/04/25 21:00,0.67,Generational Gap Complaint
+4209,7306,Facebook,Sample post content related to Subscription Change.,02/12/25 05:00,0.2,Bank Fee Complaint
+4210,5606,Twitter,Sample post content related to Travel and work Setup.,03/25/25 14:00,-0.7,Generational Gap Complaint
+4211,2570,Reddit,Sample post content related to Wealth Management.,01/08/25 22:00,-0.17,BNPL Usage
+4212,6700,Twitter,Sample post content related to Generational Gap Complaint.,01/07/25 17:00,-0.03,Financial Management Concern
+4213,3949,Instagram,Sample post content related to Tech Innovation Interest.,03/20/25 10:00,-0.73,Travel and work Setup
+4214,4195,Reddit,Sample post content related to Parenting Advice.,02/08/25 23:00,-0.91,Sales and Expansion
+4215,4095,Facebook,Sample post content related to Subscription Change.,02/23/25 01:00,-0.84,BNPL Usage
+4216,5341,Instagram,Sample post content related to Wealth Management.,03/23/25 04:00,-0.06,Cost & Financing Concern
+4217,9961,Instagram,Sample post content related to Risk Mitigation.,04/01/25 15:00,-0.94,Travel and work Setup
+4218,8086,Twitter,Sample post content related to Generational Gap Complaint.,01/26/25 14:00,-0.08,Savings Planning
+4219,2954,Reddit,Sample post content related to Shopping Interest.,03/07/25 13:00,0.65,Cost & Financing Concern
+4220,7184,Instagram,Sample post content related to Travel and work Setup.,02/25/25 05:00,-0.67,Budget Concern
+4221,3502,Twitter,Sample post content related to Cost & Financing Concern.,02/25/25 08:00,0.84,Risk Mitigation
+4222,6950,Facebook,Sample post content related to Shopping Interest.,03/02/25 11:00,0.29,Financial Management Concern
+4223,7350,Reddit,Sample post content related to Budget Concern.,03/05/25 21:00,0.6,Cost & Financing Concern
+4224,3664,Facebook,Sample post content related to Risk Mitigation.,01/30/25 06:00,0.93,Audience Engagement
+4225,7244,Reddit,Sample post content related to Parenting Advice.,01/29/25 11:00,-0.94,Wealth Management
+4226,7770,Reddit,Sample post content related to Subscription Change.,01/15/25 18:00,-0.74,Tech Enthusiasm
+4227,6673,Facebook,Sample post content related to Shopping Interest.,02/24/25 02:00,0.84,Bank Fee Complaint
+4228,7819,Facebook,Sample post content related to Tech Enthusiasm.,03/07/25 22:00,0.64,Savings Planning
+4229,2084,Instagram,Sample post content related to Sales and Expansion.,02/24/25 10:00,-0.0,Cost & Financing Concern
+4230,6517,Twitter,Sample post content related to Shopping Interest.,02/20/25 01:00,-0.64,Budget Concern
+4231,9195,Instagram,Sample post content related to Savings Planning.,03/30/25 11:00,0.07,Risk Mitigation
+4232,6505,Reddit,Sample post content related to Audience Engagement.,03/06/25 17:00,-0.57,Audience Engagement
+4233,5208,Facebook,Sample post content related to Tech Innovation Interest.,01/29/25 18:00,-0.95,Wealth Management
+4234,6424,Reddit,Sample post content related to Tech Enthusiasm.,02/06/25 19:00,0.54,Budget Concern
+4235,3152,Instagram,Sample post content related to Generational Gap Complaint.,01/21/25 18:00,-0.32,Bank Fee Complaint
+4236,8810,Twitter,Sample post content related to Budget Concern.,02/19/25 17:00,-0.23,Tech Enthusiasm
+4237,5144,Twitter,Sample post content related to Shopping Interest.,03/21/25 05:00,-0.69,Sales and Expansion
+4238,9115,Facebook,Sample post content related to Tech Enthusiasm.,03/17/25 04:00,0.22,Risk Mitigation
+4239,2086,Facebook,Sample post content related to Budget Concern.,03/08/25 17:00,0.8,Bank Fee Complaint
+4240,4253,Facebook,Sample post content related to Savings Planning.,01/16/25 02:00,-0.93,Risk Mitigation
+4241,5712,Reddit,Sample post content related to Fashion Interest.,03/23/25 16:00,0.67,BNPL Usage
+4242,7403,Facebook,Sample post content related to Audience Engagement.,03/13/25 01:00,-0.35,Risk Mitigation
+4243,7412,Twitter,Sample post content related to BNPL Usage.,03/13/25 18:00,0.09,Cost & Financing Concern
+4244,5150,Instagram,Sample post content related to BNPL Usage.,01/15/25 12:00,-0.2,Supply Chain Optimization
+4245,2561,Reddit,Sample post content related to Travel and work Setup.,01/15/25 04:00,-0.48,Sales and Expansion
+4246,2440,Twitter,Sample post content related to Tech Innovation Interest.,03/13/25 10:00,0.97,Budget Concern
+4247,8814,Instagram,Sample post content related to Supply Chain Optimization.,01/08/25 02:00,-0.9,Sales and Expansion
+4248,7172,Instagram,Sample post content related to Cost & Financing Concern.,02/18/25 03:00,-0.28,Audience Engagement
+4249,9936,Twitter,Sample post content related to Shopping Interest.,01/19/25 23:00,0.19,BNPL Usage
+4250,9811,Facebook,Sample post content related to Shopping Interest.,03/23/25 00:00,0.65,Generational Gap Complaint
+4251,5829,Facebook,Sample post content related to Audience Engagement.,01/26/25 19:00,-0.7,Bank Fee Complaint
+4252,9737,Facebook,Sample post content related to Budget Concern.,01/27/25 04:00,-0.74,Tech Enthusiasm
+4253,4923,Twitter,Sample post content related to Subscription Change.,02/02/25 02:00,-0.36,Bank Fee Complaint
+4254,1897,Reddit,Sample post content related to Supply Chain Optimization.,03/10/25 07:00,0.72,Travel and work Setup
+4255,2871,Reddit,Sample post content related to BNPL Usage.,02/23/25 08:00,-0.02,Sales and Expansion
+4256,9962,Reddit,Sample post content related to Cost & Financing Concern.,01/06/25 20:00,0.05,Risk Mitigation
+4257,5323,Facebook,Sample post content related to Fashion Interest.,02/18/25 14:00,-0.43,Parenting Advice
+4258,6017,Facebook,Sample post content related to Generational Gap Complaint.,02/13/25 17:00,-0.4,Sales and Expansion
+4259,8062,Reddit,Sample post content related to Sales and Expansion.,01/20/25 10:00,-0.22,Risk Mitigation
+4260,5311,Twitter,Sample post content related to Shopping Interest.,02/23/25 03:00,-0.79,Tech Enthusiasm
+4261,5240,Facebook,Sample post content related to Budget Concern.,01/16/25 15:00,0.84,Sales and Expansion
+4262,1295,Reddit,Sample post content related to Risk Mitigation.,03/09/25 10:00,0.22,Audience Engagement
+4263,9546,Reddit,Sample post content related to Bank Fee Complaint.,02/02/25 04:00,0.36,Tech Enthusiasm
+4264,9425,Facebook,Sample post content related to Tech Innovation Interest.,01/18/25 18:00,0.37,BNPL Usage
+4265,5720,Instagram,Sample post content related to BNPL Usage.,02/27/25 23:00,-0.58,Tech Enthusiasm
+4266,8492,Facebook,Sample post content related to Supply Chain Optimization.,02/07/25 11:00,-0.99,Bank Fee Complaint
+4267,3870,Instagram,Sample post content related to Financial Management Concern.,02/21/25 16:00,0.95,Supply Chain Optimization
+4268,6983,Instagram,Sample post content related to Shopping Interest.,01/29/25 22:00,0.26,Bank Fee Complaint
+4269,2974,Instagram,Sample post content related to Wealth Management.,02/12/25 16:00,-0.31,Audience Engagement
+4270,6225,Twitter,Sample post content related to Sponsorship Load Interest.,03/17/25 12:00,0.01,Generational Gap Complaint
+4271,8440,Reddit,Sample post content related to Supply Chain Optimization.,01/12/25 22:00,-0.13,Parenting Advice
+4272,7583,Instagram,Sample post content related to Generational Gap Complaint.,02/16/25 08:00,-0.47,Risk Mitigation
+4273,7239,Reddit,Sample post content related to Subscription Change.,01/07/25 06:00,0.89,Budget Concern
+4274,9224,Reddit,Sample post content related to Budget Concern.,01/10/25 11:00,-0.03,Sales and Expansion
+4275,2101,Facebook,Sample post content related to Bank Fee Complaint.,02/17/25 09:00,1.0,Wealth Management
+4276,6905,Facebook,Sample post content related to Generational Gap Complaint.,03/25/25 06:00,0.11,Risk Mitigation
+4277,1509,Twitter,Sample post content related to Sponsorship Load Interest.,03/15/25 19:00,-0.78,Subscription Change
+4278,3408,Instagram,Sample post content related to Sales and Expansion.,02/05/25 02:00,-0.9,Sponsorship Load Interest
+4279,1450,Facebook,Sample post content related to Tech Innovation Interest.,01/21/25 03:00,0.98,Financial Management Concern
+4280,5851,Facebook,Sample post content related to Shopping Interest.,03/14/25 03:00,-0.55,BNPL Usage
+4281,4455,Facebook,Sample post content related to Tech Enthusiasm.,01/29/25 01:00,-0.93,Wealth Management
+4282,2037,Twitter,Sample post content related to Sales and Expansion.,03/25/25 18:00,0.38,Subscription Change
+4283,2217,Reddit,Sample post content related to Shopping Interest.,01/30/25 14:00,0.3,Generational Gap Complaint
+4284,9345,Twitter,Sample post content related to Subscription Change.,02/21/25 08:00,0.71,Shopping Interest
+4285,9161,Facebook,Sample post content related to Financial Management Concern.,02/15/25 21:00,-0.15,Financial Management Concern
+4286,3553,Facebook,Sample post content related to Fashion Interest.,03/27/25 07:00,0.8,Tech Enthusiasm
+4287,9322,Twitter,Sample post content related to BNPL Usage.,01/29/25 19:00,-0.99,Financial Management Concern
+4288,4126,Reddit,Sample post content related to Cost & Financing Concern.,03/12/25 17:00,-0.48,Supply Chain Optimization
+4289,9200,Instagram,Sample post content related to Cost & Financing Concern.,01/09/25 05:00,-1.0,Supply Chain Optimization
+4290,9132,Reddit,Sample post content related to Subscription Change.,04/02/25 02:00,-0.88,Subscription Change
+4291,9928,Instagram,Sample post content related to Parenting Advice.,01/11/25 06:00,-0.25,Wealth Management
+4292,3558,Reddit,Sample post content related to Fashion Interest.,03/08/25 16:00,0.26,Wealth Management
+4293,3577,Reddit,Sample post content related to Tech Innovation Interest.,01/26/25 18:00,0.57,Tech Enthusiasm
+4294,8681,Reddit,Sample post content related to Financial Management Concern.,02/15/25 20:00,0.98,Fashion Interest
+4295,6645,Instagram,Sample post content related to Budget Concern.,04/02/25 00:00,-0.16,Financial Management Concern
+4296,3746,Reddit,Sample post content related to Risk Mitigation.,02/07/25 21:00,0.8,Risk Mitigation
+4297,8864,Twitter,Sample post content related to Bank Fee Complaint.,03/30/25 13:00,-0.39,Supply Chain Optimization
+4298,9087,Reddit,Sample post content related to Budget Concern.,04/01/25 21:00,0.55,Generational Gap Complaint
+4299,2241,Reddit,Sample post content related to Parenting Advice.,03/11/25 18:00,0.55,Shopping Interest
+4300,8826,Twitter,Sample post content related to Parenting Advice.,02/06/25 15:00,0.36,Tech Innovation Interest
+4301,4760,Reddit,Sample post content related to Tech Innovation Interest.,03/11/25 02:00,0.3,Risk Mitigation
+4302,7300,Facebook,Sample post content related to Parenting Advice.,01/24/25 15:00,-0.33,Audience Engagement
+4303,9400,Reddit,Sample post content related to Tech Innovation Interest.,01/09/25 00:00,-0.54,Shopping Interest
+4304,6564,Twitter,Sample post content related to Shopping Interest.,02/18/25 22:00,0.19,Subscription Change
+4305,8283,Twitter,Sample post content related to Travel and work Setup.,02/12/25 00:00,0.64,Risk Mitigation
+4306,9174,Facebook,Sample post content related to Tech Enthusiasm.,03/02/25 05:00,-0.69,Sponsorship Load Interest
+4307,1959,Reddit,Sample post content related to Financial Management Concern.,01/20/25 14:00,-0.77,Parenting Advice
+4308,6180,Reddit,Sample post content related to BNPL Usage.,01/03/25 20:00,-0.71,Risk Mitigation
+4309,6374,Reddit,Sample post content related to Travel and work Setup.,02/19/25 19:00,-0.93,Tech Enthusiasm
+4310,9206,Reddit,Sample post content related to Bank Fee Complaint.,02/03/25 23:00,-0.6,Audience Engagement
+4311,4010,Reddit,Sample post content related to Audience Engagement.,03/07/25 09:00,-0.91,Tech Enthusiasm
+4312,5318,Reddit,Sample post content related to Wealth Management.,03/04/25 20:00,-0.6,Supply Chain Optimization
+4313,7962,Twitter,Sample post content related to Tech Enthusiasm.,02/18/25 02:00,0.86,Sales and Expansion
+4314,8744,Twitter,Sample post content related to Sales and Expansion.,03/24/25 14:00,-0.28,Shopping Interest
+4315,1363,Reddit,Sample post content related to Financial Management Concern.,01/18/25 04:00,0.67,Risk Mitigation
+4316,2016,Reddit,Sample post content related to Shopping Interest.,03/10/25 14:00,-0.0,Travel and work Setup
+4317,6178,Twitter,Sample post content related to Tech Enthusiasm.,03/17/25 19:00,0.95,Sponsorship Load Interest
+4318,1362,Twitter,Sample post content related to Subscription Change.,01/05/25 19:00,-0.43,Shopping Interest
+4319,3411,Reddit,Sample post content related to Parenting Advice.,01/04/25 05:00,0.97,Savings Planning
+4320,8829,Twitter,Sample post content related to Generational Gap Complaint.,01/11/25 15:00,0.95,Audience Engagement
+4321,3582,Twitter,Sample post content related to Sales and Expansion.,02/01/25 01:00,-0.92,Budget Concern
+4322,3818,Instagram,Sample post content related to Parenting Advice.,01/26/25 13:00,-0.59,Sales and Expansion
+4323,1762,Instagram,Sample post content related to Budget Concern.,03/21/25 18:00,-0.3,Shopping Interest
+4324,1322,Instagram,Sample post content related to Sales and Expansion.,03/01/25 05:00,-0.47,Travel and work Setup
+4325,5806,Instagram,Sample post content related to Cost & Financing Concern.,01/10/25 06:00,-0.62,Travel and work Setup
+4326,7183,Facebook,Sample post content related to Supply Chain Optimization.,02/15/25 00:00,0.55,Sales and Expansion
+4327,3896,Twitter,Sample post content related to Cost & Financing Concern.,03/27/25 05:00,-0.85,Fashion Interest
+4328,1938,Facebook,Sample post content related to Budget Concern.,03/25/25 23:00,-0.07,BNPL Usage
+4329,5844,Twitter,Sample post content related to Wealth Management.,01/29/25 09:00,0.38,BNPL Usage
+4330,6158,Reddit,Sample post content related to Fashion Interest.,01/04/25 18:00,0.51,Supply Chain Optimization
+4331,7324,Instagram,Sample post content related to Budget Concern.,03/31/25 06:00,0.53,Audience Engagement
+4332,3575,Instagram,Sample post content related to Financial Management Concern.,01/13/25 12:00,0.37,Budget Concern
+4333,6995,Reddit,Sample post content related to Tech Enthusiasm.,02/26/25 19:00,-0.92,Sponsorship Load Interest
+4334,8488,Reddit,Sample post content related to Bank Fee Complaint.,01/16/25 04:00,-0.38,Sponsorship Load Interest
+4335,1478,Reddit,Sample post content related to Financial Management Concern.,01/15/25 07:00,0.54,Supply Chain Optimization
+4336,7853,Instagram,Sample post content related to Fashion Interest.,02/11/25 13:00,0.51,BNPL Usage
+4337,9195,Twitter,Sample post content related to Bank Fee Complaint.,01/08/25 14:00,-0.36,Sales and Expansion
+4338,7099,Facebook,Sample post content related to Tech Enthusiasm.,02/17/25 07:00,-0.46,Fashion Interest
+4339,9635,Instagram,Sample post content related to Generational Gap Complaint.,01/12/25 19:00,0.91,Tech Enthusiasm
+4340,1339,Reddit,Sample post content related to Sales and Expansion.,01/09/25 22:00,0.09,Wealth Management
+4341,4133,Facebook,Sample post content related to BNPL Usage.,03/05/25 16:00,-0.01,Tech Enthusiasm
+4342,5664,Reddit,Sample post content related to Travel and work Setup.,01/23/25 02:00,0.94,Supply Chain Optimization
+4343,8043,Reddit,Sample post content related to Savings Planning.,03/24/25 14:00,0.61,Supply Chain Optimization
+4344,6573,Instagram,Sample post content related to Tech Enthusiasm.,01/27/25 04:00,0.55,Sponsorship Load Interest
+4345,9277,Reddit,Sample post content related to Bank Fee Complaint.,01/03/25 12:00,0.32,BNPL Usage
+4346,1912,Reddit,Sample post content related to Savings Planning.,01/30/25 20:00,-0.24,Shopping Interest
+4347,3251,Instagram,Sample post content related to Tech Enthusiasm.,03/27/25 07:00,-0.55,Sales and Expansion
+4348,6593,Facebook,Sample post content related to Travel and work Setup.,01/15/25 05:00,-0.86,Financial Management Concern
+4349,1497,Reddit,Sample post content related to Tech Enthusiasm.,02/12/25 08:00,0.46,Sponsorship Load Interest
+4350,5340,Twitter,Sample post content related to Savings Planning.,01/18/25 23:00,0.8,Audience Engagement
+4351,4968,Instagram,Sample post content related to Sales and Expansion.,02/19/25 20:00,0.18,Generational Gap Complaint
+4352,1717,Instagram,Sample post content related to Bank Fee Complaint.,03/13/25 07:00,-0.06,Savings Planning
+4353,7666,Instagram,Sample post content related to Shopping Interest.,03/19/25 02:00,-0.5,BNPL Usage
+4354,2052,Twitter,Sample post content related to Parenting Advice.,01/27/25 03:00,0.27,Subscription Change
+4355,7336,Instagram,Sample post content related to Subscription Change.,01/04/25 21:00,0.35,Fashion Interest
+4356,9447,Twitter,Sample post content related to Subscription Change.,03/22/25 12:00,-0.03,Sales and Expansion
+4357,9754,Twitter,Sample post content related to BNPL Usage.,01/31/25 01:00,-0.08,Fashion Interest
+4358,8320,Twitter,Sample post content related to Budget Concern.,02/03/25 17:00,0.03,Subscription Change
+4359,5338,Twitter,Sample post content related to Bank Fee Complaint.,01/31/25 20:00,0.62,Shopping Interest
+4360,3710,Twitter,Sample post content related to BNPL Usage.,01/31/25 17:00,-0.86,Fashion Interest
+4361,9837,Facebook,Sample post content related to Risk Mitigation.,03/02/25 08:00,-0.58,Cost & Financing Concern
+4362,4165,Reddit,Sample post content related to Travel and work Setup.,02/03/25 02:00,-0.64,Savings Planning
+4363,6204,Twitter,Sample post content related to Shopping Interest.,02/13/25 05:00,-0.81,Tech Innovation Interest
+4364,8579,Instagram,Sample post content related to Wealth Management.,03/31/25 10:00,0.93,Cost & Financing Concern
+4365,7673,Instagram,Sample post content related to Savings Planning.,02/12/25 09:00,0.21,Bank Fee Complaint
+4366,4096,Twitter,Sample post content related to Cost & Financing Concern.,01/21/25 18:00,-0.63,Budget Concern
+4367,1117,Reddit,Sample post content related to BNPL Usage.,04/02/25 01:00,0.73,Subscription Change
+4368,7840,Reddit,Sample post content related to Audience Engagement.,03/18/25 03:00,0.72,Parenting Advice
+4369,5299,Instagram,Sample post content related to Parenting Advice.,01/21/25 17:00,-0.08,Audience Engagement
+4370,3237,Instagram,Sample post content related to Shopping Interest.,02/16/25 21:00,0.51,Tech Enthusiasm
+4371,9387,Twitter,Sample post content related to Tech Enthusiasm.,03/18/25 20:00,0.08,Travel and work Setup
+4372,2463,Instagram,Sample post content related to Subscription Change.,01/22/25 13:00,-0.99,Sales and Expansion
+4373,2935,Reddit,Sample post content related to Tech Enthusiasm.,01/07/25 09:00,-0.51,Generational Gap Complaint
+4374,6444,Twitter,Sample post content related to Fashion Interest.,03/07/25 09:00,0.07,Risk Mitigation
+4375,6526,Instagram,Sample post content related to Savings Planning.,03/07/25 12:00,0.0,Audience Engagement
+4376,3031,Reddit,Sample post content related to Sponsorship Load Interest.,02/18/25 02:00,-0.13,Wealth Management
+4377,5825,Twitter,Sample post content related to Audience Engagement.,02/28/25 09:00,0.43,Savings Planning
+4378,5837,Instagram,Sample post content related to Shopping Interest.,01/26/25 10:00,0.39,Parenting Advice
+4379,2056,Reddit,Sample post content related to Bank Fee Complaint.,03/26/25 14:00,0.02,Savings Planning
+4380,9899,Reddit,Sample post content related to Financial Management Concern.,02/26/25 09:00,-0.88,Tech Enthusiasm
+4381,3836,Instagram,Sample post content related to Generational Gap Complaint.,02/25/25 04:00,0.47,Financial Management Concern
+4382,7469,Reddit,Sample post content related to BNPL Usage.,03/06/25 12:00,0.77,Savings Planning
+4383,7268,Instagram,Sample post content related to Subscription Change.,01/19/25 08:00,-0.59,Sponsorship Load Interest
+4384,6663,Twitter,Sample post content related to Generational Gap Complaint.,03/11/25 11:00,-0.64,Cost & Financing Concern
+4385,4809,Facebook,Sample post content related to Bank Fee Complaint.,01/06/25 06:00,0.52,Shopping Interest
+4386,8108,Instagram,Sample post content related to Supply Chain Optimization.,03/22/25 16:00,0.97,Sponsorship Load Interest
+4387,2070,Facebook,Sample post content related to Savings Planning.,03/07/25 06:00,0.8,Fashion Interest
+4388,9184,Twitter,Sample post content related to Supply Chain Optimization.,01/22/25 20:00,-0.7,Fashion Interest
+4389,2646,Reddit,Sample post content related to Parenting Advice.,03/08/25 18:00,-0.4,Budget Concern
+4390,4429,Instagram,Sample post content related to Supply Chain Optimization.,02/25/25 13:00,-0.63,Supply Chain Optimization
+4391,4545,Twitter,Sample post content related to Shopping Interest.,03/17/25 05:00,0.14,Tech Enthusiasm
+4392,7402,Instagram,Sample post content related to Tech Enthusiasm.,03/10/25 21:00,0.12,Supply Chain Optimization
+4393,4676,Instagram,Sample post content related to Parenting Advice.,02/11/25 00:00,-0.44,Savings Planning
+4394,6395,Reddit,Sample post content related to Generational Gap Complaint.,03/05/25 02:00,0.39,Audience Engagement
+4395,8683,Instagram,Sample post content related to Bank Fee Complaint.,03/23/25 04:00,0.67,Tech Enthusiasm
+4396,2493,Reddit,Sample post content related to Budget Concern.,01/29/25 20:00,0.51,BNPL Usage
+4397,7725,Reddit,Sample post content related to Fashion Interest.,01/03/25 00:00,0.3,Financial Management Concern
+4398,5732,Facebook,Sample post content related to Subscription Change.,01/23/25 19:00,0.03,Audience Engagement
+4399,4441,Twitter,Sample post content related to Tech Innovation Interest.,03/12/25 10:00,0.72,Shopping Interest
+4400,3599,Reddit,Sample post content related to Parenting Advice.,03/10/25 18:00,-0.03,Budget Concern
+4401,1639,Instagram,Sample post content related to Savings Planning.,03/25/25 02:00,0.84,BNPL Usage
+4402,1995,Reddit,Sample post content related to Parenting Advice.,02/19/25 00:00,-0.26,Shopping Interest
+4403,5039,Facebook,Sample post content related to Bank Fee Complaint.,02/28/25 07:00,0.49,Tech Enthusiasm
+4404,4585,Twitter,Sample post content related to BNPL Usage.,01/27/25 03:00,-0.43,Cost & Financing Concern
+4405,6511,Facebook,Sample post content related to BNPL Usage.,02/24/25 22:00,0.26,BNPL Usage
+4406,3367,Twitter,Sample post content related to Audience Engagement.,01/29/25 15:00,0.1,Generational Gap Complaint
+4407,4188,Instagram,Sample post content related to Subscription Change.,02/22/25 20:00,0.16,Wealth Management
+4408,9384,Reddit,Sample post content related to Sponsorship Load Interest.,03/29/25 10:00,-0.43,Sponsorship Load Interest
+4409,9062,Reddit,Sample post content related to Bank Fee Complaint.,02/20/25 15:00,-0.18,Generational Gap Complaint
+4410,5356,Instagram,Sample post content related to Sales and Expansion.,02/20/25 09:00,0.9,Sales and Expansion
+4411,2505,Twitter,Sample post content related to Cost & Financing Concern.,03/31/25 18:00,0.17,Tech Innovation Interest
+4412,7300,Reddit,Sample post content related to Tech Enthusiasm.,03/02/25 17:00,-0.36,Wealth Management
+4413,9488,Instagram,Sample post content related to Tech Innovation Interest.,03/29/25 05:00,0.7,Budget Concern
+4414,9641,Facebook,Sample post content related to Risk Mitigation.,01/14/25 19:00,-0.39,Bank Fee Complaint
+4415,7292,Instagram,Sample post content related to Tech Enthusiasm.,01/06/25 15:00,0.43,Tech Enthusiasm
+4416,3880,Reddit,Sample post content related to Parenting Advice.,01/14/25 13:00,0.61,Generational Gap Complaint
+4417,8668,Twitter,Sample post content related to Risk Mitigation.,01/23/25 15:00,-0.61,Shopping Interest
+4418,8139,Instagram,Sample post content related to Supply Chain Optimization.,01/28/25 23:00,0.9,Budget Concern
+4419,8605,Reddit,Sample post content related to Wealth Management.,01/21/25 02:00,-0.28,Fashion Interest
+4420,9771,Twitter,Sample post content related to Audience Engagement.,03/30/25 20:00,-0.85,Tech Enthusiasm
+4421,8451,Instagram,Sample post content related to Fashion Interest.,01/11/25 09:00,0.91,Tech Innovation Interest
+4422,2009,Reddit,Sample post content related to Budget Concern.,03/23/25 08:00,-0.83,Supply Chain Optimization
+4423,7928,Twitter,Sample post content related to Subscription Change.,03/07/25 01:00,0.49,Financial Management Concern
+4424,3106,Instagram,Sample post content related to Tech Innovation Interest.,01/29/25 06:00,0.49,BNPL Usage
+4425,3914,Twitter,Sample post content related to Wealth Management.,02/07/25 23:00,-0.08,Budget Concern
+4426,5078,Twitter,Sample post content related to Tech Innovation Interest.,01/13/25 23:00,0.7,Travel and work Setup
+4427,5721,Instagram,Sample post content related to Fashion Interest.,01/03/25 07:00,0.35,Generational Gap Complaint
+4428,6780,Facebook,Sample post content related to Generational Gap Complaint.,03/26/25 18:00,0.89,Audience Engagement
+4429,3735,Reddit,Sample post content related to Tech Innovation Interest.,02/10/25 04:00,-0.3,Tech Enthusiasm
+4430,6925,Twitter,Sample post content related to BNPL Usage.,02/26/25 09:00,-0.42,Subscription Change
+4431,4209,Facebook,Sample post content related to Cost & Financing Concern.,03/06/25 22:00,-0.86,Sales and Expansion
+4432,9355,Instagram,Sample post content related to Bank Fee Complaint.,01/28/25 04:00,0.39,Sales and Expansion
+4433,8121,Reddit,Sample post content related to Subscription Change.,03/04/25 12:00,0.43,Sales and Expansion
+4434,1774,Facebook,Sample post content related to Risk Mitigation.,03/12/25 11:00,-0.8,Sales and Expansion
+4435,1586,Twitter,Sample post content related to BNPL Usage.,03/13/25 05:00,-0.92,Parenting Advice
+4436,6781,Twitter,Sample post content related to Savings Planning.,01/10/25 02:00,0.15,Audience Engagement
+4437,5833,Reddit,Sample post content related to Financial Management Concern.,02/10/25 19:00,-0.14,Wealth Management
+4438,3465,Twitter,Sample post content related to Cost & Financing Concern.,03/05/25 21:00,0.59,Risk Mitigation
+4439,8374,Twitter,Sample post content related to Financial Management Concern.,02/20/25 09:00,0.03,Wealth Management
+4440,9758,Facebook,Sample post content related to Audience Engagement.,03/20/25 08:00,0.48,Wealth Management
+4441,6547,Twitter,Sample post content related to Wealth Management.,01/08/25 00:00,0.69,Supply Chain Optimization
+4442,5493,Reddit,Sample post content related to Wealth Management.,03/26/25 09:00,-0.67,Shopping Interest
+4443,9854,Twitter,Sample post content related to Tech Enthusiasm.,01/17/25 09:00,-0.5,Bank Fee Complaint
+4444,4961,Twitter,Sample post content related to Shopping Interest.,01/14/25 18:00,0.72,Bank Fee Complaint
+4445,5425,Facebook,Sample post content related to Sponsorship Load Interest.,03/08/25 03:00,-0.2,Savings Planning
+4446,1016,Instagram,Sample post content related to Sales and Expansion.,03/28/25 13:00,-0.75,Budget Concern
+4447,7325,Facebook,Sample post content related to Wealth Management.,01/13/25 15:00,0.41,Shopping Interest
+4448,7988,Instagram,Sample post content related to BNPL Usage.,02/10/25 02:00,0.91,Subscription Change
+4449,4931,Facebook,Sample post content related to Savings Planning.,01/04/25 12:00,-0.38,Subscription Change
+4450,2450,Reddit,Sample post content related to Generational Gap Complaint.,03/04/25 17:00,0.9,Supply Chain Optimization
+4451,2961,Twitter,Sample post content related to Wealth Management.,03/30/25 01:00,-0.22,Audience Engagement
+4452,2528,Facebook,Sample post content related to Bank Fee Complaint.,04/01/25 07:00,0.81,Travel and work Setup
+4453,7112,Reddit,Sample post content related to Wealth Management.,03/02/25 17:00,-0.93,Savings Planning
+4454,6844,Instagram,Sample post content related to Fashion Interest.,02/23/25 00:00,-0.28,Subscription Change
+4455,3578,Twitter,Sample post content related to Tech Enthusiasm.,01/06/25 10:00,-0.26,Generational Gap Complaint
+4456,1850,Instagram,Sample post content related to Fashion Interest.,03/02/25 18:00,0.26,Budget Concern
+4457,2239,Instagram,Sample post content related to Wealth Management.,03/10/25 08:00,0.25,Risk Mitigation
+4458,2104,Twitter,Sample post content related to Sales and Expansion.,01/17/25 21:00,-0.35,Cost & Financing Concern
+4459,7019,Facebook,Sample post content related to Savings Planning.,03/05/25 06:00,0.8,Risk Mitigation
+4460,7027,Twitter,Sample post content related to Cost & Financing Concern.,01/19/25 03:00,-0.61,BNPL Usage
+4461,9832,Facebook,Sample post content related to Travel and work Setup.,03/16/25 19:00,0.78,BNPL Usage
+4462,9640,Twitter,Sample post content related to Sponsorship Load Interest.,03/12/25 16:00,-0.56,Fashion Interest
+4463,2473,Instagram,Sample post content related to Savings Planning.,03/28/25 03:00,0.18,Sales and Expansion
+4464,8777,Instagram,Sample post content related to Supply Chain Optimization.,01/28/25 21:00,0.1,Financial Management Concern
+4465,4854,Twitter,Sample post content related to Risk Mitigation.,03/31/25 12:00,-0.4,Supply Chain Optimization
+4466,4655,Reddit,Sample post content related to Bank Fee Complaint.,01/30/25 01:00,-0.3,Cost & Financing Concern
+4467,5721,Instagram,Sample post content related to BNPL Usage.,01/28/25 13:00,-0.91,Fashion Interest
+4468,7493,Instagram,Sample post content related to BNPL Usage.,03/22/25 12:00,0.63,Shopping Interest
+4469,7479,Instagram,Sample post content related to Risk Mitigation.,02/23/25 11:00,-0.09,Financial Management Concern
+4470,8895,Instagram,Sample post content related to Tech Innovation Interest.,03/03/25 12:00,0.93,BNPL Usage
+4471,6117,Twitter,Sample post content related to Sponsorship Load Interest.,02/04/25 21:00,0.72,Sponsorship Load Interest
+4472,9910,Twitter,Sample post content related to Cost & Financing Concern.,02/16/25 18:00,-0.99,Cost & Financing Concern
+4473,5890,Reddit,Sample post content related to BNPL Usage.,03/03/25 18:00,-0.41,Shopping Interest
+4474,2727,Facebook,Sample post content related to Supply Chain Optimization.,02/23/25 00:00,0.76,Bank Fee Complaint
+4475,3522,Twitter,Sample post content related to Budget Concern.,01/13/25 10:00,0.08,Savings Planning
+4476,9539,Reddit,Sample post content related to Cost & Financing Concern.,02/13/25 07:00,-0.34,Fashion Interest
+4477,1977,Reddit,Sample post content related to Fashion Interest.,02/14/25 06:00,-0.57,Parenting Advice
+4478,3943,Reddit,Sample post content related to Bank Fee Complaint.,01/08/25 19:00,-0.32,Cost & Financing Concern
+4479,8812,Instagram,Sample post content related to Tech Enthusiasm.,02/07/25 00:00,-0.74,Subscription Change
+4480,8820,Twitter,Sample post content related to Sponsorship Load Interest.,02/10/25 18:00,-0.33,Generational Gap Complaint
+4481,6461,Instagram,Sample post content related to Sponsorship Load Interest.,02/28/25 18:00,0.58,Parenting Advice
+4482,7413,Twitter,Sample post content related to Budget Concern.,03/22/25 21:00,-0.67,Subscription Change
+4483,2795,Instagram,Sample post content related to Risk Mitigation.,02/21/25 19:00,0.12,Subscription Change
+4484,2699,Facebook,Sample post content related to Bank Fee Complaint.,03/03/25 01:00,-0.78,Supply Chain Optimization
+4485,6306,Facebook,Sample post content related to Fashion Interest.,01/14/25 00:00,-0.13,Bank Fee Complaint
+4486,1379,Twitter,Sample post content related to Audience Engagement.,01/17/25 08:00,-0.3,Generational Gap Complaint
+4487,2758,Instagram,Sample post content related to Savings Planning.,01/17/25 09:00,0.2,Sales and Expansion
+4488,1121,Twitter,Sample post content related to Generational Gap Complaint.,03/20/25 09:00,0.41,Cost & Financing Concern
+4489,3897,Instagram,Sample post content related to Parenting Advice.,02/07/25 17:00,0.14,Generational Gap Complaint
+4490,8642,Reddit,Sample post content related to Fashion Interest.,02/14/25 20:00,0.93,Sales and Expansion
+4491,3223,Instagram,Sample post content related to Sponsorship Load Interest.,01/21/25 03:00,0.25,Supply Chain Optimization
+4492,2889,Reddit,Sample post content related to Subscription Change.,03/11/25 10:00,-0.02,Sponsorship Load Interest
+4493,6772,Twitter,Sample post content related to Tech Enthusiasm.,01/10/25 10:00,-0.95,Travel and work Setup
+4494,7607,Instagram,Sample post content related to Budget Concern.,03/26/25 17:00,-0.24,Tech Innovation Interest
+4495,4389,Facebook,Sample post content related to Cost & Financing Concern.,01/13/25 06:00,-1.0,Shopping Interest
+4496,7400,Instagram,Sample post content related to Sponsorship Load Interest.,01/21/25 00:00,-0.33,Supply Chain Optimization
+4497,1178,Facebook,Sample post content related to Savings Planning.,03/04/25 07:00,-0.18,Subscription Change
+4498,7066,Instagram,Sample post content related to Sponsorship Load Interest.,01/25/25 16:00,-0.26,Travel and work Setup
+4499,2033,Facebook,Sample post content related to Parenting Advice.,01/08/25 08:00,0.94,Subscription Change
+4500,8419,Facebook,Sample post content related to Supply Chain Optimization.,01/21/25 04:00,0.85,Savings Planning
